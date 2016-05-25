@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["EU to spend hundreds of millions on housing, feeding immigrant invaders #WhiteGenocide #EuropeAwake #WeAreAtWar #WR"
+
+"WTF IS WRONG WITH OLD PEOPLE TODAY"
+
+"#Pakistan has become the second ISIS of the world. It must be annihilated to save the world from terrorism."
+
+"Kaitlyn Jenner has now endorsed @HillaryClinton, bringing home the critical chicks with dicks vote. "
+
+"Predictably ... Commie retards claim Jews b/h Brussels attack... When are @ndtv @INCIndia gonna blame RSS? LOL! "
+
+"@SaxonAmbrose \nIt was a joke - but actually the more discerning rapist probably wouldn't target a negress."
+
+"if the earth is flat why don't we roll fat people off of it?"
+
+"Stupid catholics"
+
+"I hate those Mexicans that try to act white and act racist against their own race"
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="54~63" text="immigrant" hate="yes" slur="none" immigrant_status="Immigrant" />
+<Group id="G1" spans="138~148" text="OLD PEOPLE" hate="no" age="Old" slur="none" />
+<Group id="G2" spans="159~167" text="Pakistan" hate="yes" slur="none" nationality="Pakistan" />
+<Group id="G3" spans="345~362" text="chicks with dicks" hate="yes" genderID="Trans" gender="Female" slur="hateful" />
+<Group id="G4" spans="396~403" text="retards" hate="yes" slur="hateful" disability="Mental" />
+<Group id="G5" spans="410~414" text="Jews" hate="no" slur="none" religion="Jewish" />
+<Group id="G6" spans="588~595" text="negress" hate="yes" gender="Female" race="Black" slur="hateful" />
+<Group id="G7" spans="639~649" text="fat people" hate="yes" body_image="Fat" slur="none" />
+<Group id="G8" spans="671~680" text="catholics" hate="yes" religion="Catholic" slur="none" />
+<Group id="G9" spans="697~705" text="Mexicans" hate="no" slur="none" nationality="Mexico" />
+<Group id="G10" spans="722~727" text="white" hate="no" slur="none" race="White" />
+<Sentiment id="S0" spans="64~72" text="invaders" type="judgement" />
+<Sentiment id="S1" spans="120~154" text="WTF IS WRONG WITH OLD PEOPLE TODAY" type="judgement" />
+<Sentiment id="S2" spans="159~207" text="Pakistan has become the second ISIS of the world" type="judgement" />
+<Sentiment id="S3" spans="209~264" text="It must be annihilated to save the world from terrorism" type="incitement" />
+<Sentiment id="S4" spans="534~595" text="the more discerning rapist probably wouldn&apos;t target a negress" type="judgement" />
+<Sentiment id="S5" spans="600~659" text="if the earth is flat why don&apos;t we roll fat people off of it" type="incitement" />
+<Sentiment id="S6" spans="664~670" text="Stupid" type="judgement" />
+<Ref id="R0" fromID="S0" fromText="invaders" toID="G0" toText="immigrant" />
+<Ref id="R1" fromID="S1" fromText="WTF IS WRONG WITH OLD PEOPLE TODAY" toID="G1" toText="OLD PEOPLE" />
+<Ref id="R2" fromID="S2" fromText="Pakistan has become the second ISIS of the world" toID="G2" toText="Pakistan" />
+<Ref id="R3" fromID="S3" fromText="It must be annihilated to save the world from terrorism" toID="G2" toText="Pakistan" />
+<Ref id="R4" fromID="S4" fromText="the more discerning rapist probably wouldn&apos;t target a negress" toID="G6" toText="negress" />
+<Ref id="R5" fromID="S5" fromText="if the earth is flat why don&apos;t we roll fat people off of it" toID="G7" toText="fat people" />
+<Ref id="R6" fromID="S6" fromText="Stupid" toID="G8" toText="catholics" />
+</TAGS>
+</HateSpeech_2.0>

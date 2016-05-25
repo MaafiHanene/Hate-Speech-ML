@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["I hate how Protestants act on the only day that Catholics do wave around their flag , whereas the Union Jack is waved around everyday"
+
+"@StrThry @realDonaldTrump Hate? No way , How could you live without Mexicans bringing in taco Tuesday"
+
+"\"Tampax Pearl: Outsmart mother nature\"\n\nBeing born with a cock seems to have done the trick for me."
+
+"fucking indians from india are so fucking noisy in the library omg arghhhhhhhhhhhhh"
+
+"What's the smartest thing to ever come out of a woman's mouth?\n\nEinstein's dick"
+
+"If your parents national flag is more important than your own, why are you still here?"
+
+"RT @zlando: Will the #UK become the first Muslim country in history with a female monarch? #COYS "
+
+"I hate when people say money can't buy happiness. Only broke people say this in all honesty."
+
+"I really hate dykes, like the manly butch ones, they are just flat out ugly"
+
+"@Ncoleycole @chrisgb00 That's not even funny. Playing on the notion that Native Americans are alcoholics. "
+
+"I hate when people cry broke , cus it's endless ways to get u some money"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="12~23" text="Protestants" hate="no" slur="none" religion="Protestant" />
+<Group id="G1" spans="49~58" text="Catholics" hate="no" slur="none" religion="Catholic" />
+<Group id="G2" spans="206~214" text="Mexicans" hate="no" slur="none" nationality="Mexico" />
+<Group id="G3" spans="358~365" text="indians" hate="no" slur="none" nationality="India" />
+<Group id="G4" spans="485~492" text="woman&apos;s" hate="yes" slur="none" gender="Female" />
+<Group id="G5" spans="525~551" text="your parents national flag" hate="yes" slur="none" immigrant_status="Immigrant" />
+<Group id="G6" spans="654~660" text="Muslim" hate="no" slur="none" religion="Muslim" />
+<Group id="G7" spans="823~828" text="dykes" hate="yes" slur="hateful" orientation="Lesbian" />
+<Group id="G8" spans="961~977" text="Native Americans" hate="yes" slur="none" race="Native_American" />
+<Sentiment id="S0" spans="585~607" text="why are you still here" type="incitement" />
+<Sentiment id="S1" spans="624~701" text="Will the #UK become the first Muslim country in history with a female monarch" type="warning" />
+<Sentiment id="S2" spans="809~828" text="I really hate dykes" type="reaction" />
+<Stereotype id="St0" spans="857~884" text="they are just flat out ugly" type="physical" />
+<Stereotype id="St1" spans="377~412" text="are so fucking noisy in the library" type="behavioral" />
+<Stereotype id="St2" spans="437~518" text="What&apos;s the smartest thing to ever come out of a woman&apos;s mouth?\n\nEinstein&apos;s dick" type="mental" />
+<Stereotype id="St3" spans="961~992" text="Native Americans are alcoholics" type="behavioral" nonhate="outside_ref" />
+<Ref id="R0" fromID="St1" fromText="are so fucking noisy in the library" toID="G3" toText="indians" />
+<Ref id="R1" fromID="St2" fromText="What&apos;s the smartest thing to ever come out of a woman&apos;s mouth?\n\nEinstein&apos;s dick" toID="G4" toText="woman&apos;s" />
+<Ref id="R2" fromID="S0" fromText="why are you still here" toID="G5" toText="your parents national flag" />
+<Ref id="R3" fromID="S1" fromText="Will the #UK become the first Muslim country in history with a female monarch" toID="G6" toText="Muslim" />
+<Ref id="R4" fromID="S2" fromText="I really hate dykes" toID="G7" toText="dykes" />
+<Ref id="R5" fromID="St0" fromText="they are just flat out ugly" toID="G7" toText="dykes" />
+<Ref id="R6" fromID="St3" fromText="Native Americans are alcoholics" toID="G8" toText="Native Americans" />
+</TAGS>
+</HateSpeech_2.0>

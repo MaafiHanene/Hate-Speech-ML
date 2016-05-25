@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["RT @marylovefreedom: It is very revealing that the WORST slur leftists use is \"White Supremacist\".\nLeftists want White people to be the  lowest of the low!"
+
+"\"We're at a point in our culture where it's better to lie about being gay than to be open about loving trans women.\""
+
+"It's ok, I only use it on retards. They're too retarded to get offended."
+
+"RT @michaelbelievs: @Hoshle attack Israel and the jews for Everything,they are not perfect but who is? Its a complicated situation but try to see both sides"
+
+"@MattWalshBlog Protestants are the biggest hypocrites on the planet . All they do is bash Catholicism"
+
+"RT @Bites_his_Nails: Please ffs stop referring to Syrians etc in Europe as refugees, refugees don't bypass places of safety in pursuit of benefits"
+
+"RT @DeeLish2000: @davidiansimpso3 you invite third world trash into your home- you invite their problems too.  Our governments are betraying us."
+
+"RT @genophilialove2: Has anyone else noticed that it seems like the more #diverse the people supporting a #politician are the more sold out that politician is?"
+
+"I hate Shemales coz they make me feel fuckin jealous. Like hey, I'm kinda a girl but I can get your chik if I wanted to and screw her better"
+
+"This guy is literally blasting music from a STEREO on this train. Why are old people and kids equally obnoxious? "
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="117~129" text="White people" hate="no" slur="none" race="White" />
+<Group id="G1" spans="267~278" text="trans women" hate="no" slur="none" genderID="Trans" gender="Female" />
+<Group id="G2" spans="311~318" text="retards" hate="yes" slur="hateful" disability="Mental" />
+<Group id="G3" spans="411~415" text="jews" hate="no" slur="none" religion="Jewish" />
+<Group id="G4" spans="536~547" text="Protestants" hate="no" slur="none" religion="Protestant" />
+<Group id="G5" spans="611~622" text="Catholicism" hate="no" slur="none" religion="Catholic" />
+<Group id="G6" spans="676~683" text="Syrians" hate="yes" nationality="Syria" slur="none" />
+<Group id="G7" spans="701~709" text="refugees" hate="no" slur="none" immigrant_status="Refugee" />
+<Group id="G8" spans="711~719" text="refugees" hate="no" slur="none" immigrant_status="Refugee" />
+<Group id="G9" spans="821~838" text="third world trash" hate="yes" slur="hateful" immigrant_status="Refugee" />
+<Group id="G10" spans="1094~1102" text="Shemales" hate="yes" slur="hateful" genderID="Trans" />
+<Group id="G11" spans="1305~1315" text="old people" hate="no" slur="none" age="Old" />
+<Group id="G12" spans="1320~1324" text="kids" hate="no" slur="none" age="Young" />
+<Group id="G13" spans="234~237" text="gay" hate="no" slur="none" orientation="Gay" />
+<Sentiment id="S0" spans="552~588" text="the biggest hypocrites on the planet" type="judgement" />
+<Sentiment id="S2" spans="810~884" text="you invite third world trash into your home- you invite their problems too" type="warning" />
+<Sentiment id="S4" spans="1087~1139" text="I hate Shemales coz they make me feel fuckin jealous" type="reaction" />
+<Sentiment id="S5" spans="1151~1227" text="I&apos;m kinda a girl but I can get your chik if I wanted to and screw her better" type="warning" />
+<Stereotype id="St0" spans="591~622" text="All they do is bash Catholicism" type="behavioral" />
+<Stereotype id="St1" spans="320~356" text="They&apos;re too retarded to get offended" type="mental" />
+<Stereotype id="St2" spans="726~772" text="bypass places of safety in pursuit of benefits" type="behavioral" />
+<Ref id="R0" fromID="St1" fromText="They&apos;re too retarded to get offended" toID="G2" toText="retards" />
+<Ref id="R1" fromID="S0" fromText="the biggest hypocrites on the planet" toID="G4" toText="Protestants" />
+<Ref id="R2" fromID="St0" fromText="All they do is bash Catholicism" toID="G4" toText="Protestants" />
+<Ref id="R3" fromID="St2" fromText="bypass places of safety in pursuit of benefits" toID="G6" toText="Syrians" />
+<Ref id="R4" fromID="S2" fromText="you invite third world trash into your home- you invite their problems too" toID="G9" toText="third world trash" />
+<Ref id="R5" fromID="S4" fromText="I hate Shemales coz they make me feel fuckin jealous" toID="G10" toText="Shemales" />
+<Ref id="R6" fromID="S5" fromText="I&apos;m kinda a girl but I can get your chik if I wanted to and screw her better" toID="G10" toText="Shemales" />
+</TAGS>
+</HateSpeech_2.0>

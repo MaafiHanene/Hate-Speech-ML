@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["I can guarantee that #AmandaBlackburn 's murderers, ahem \"urban yoof,\" i.e. \"good boys who dindunuffin\" were on welfare, gov assistance."
+
+
+
+"Marseille is approximately 40% Moslem, and is the most dangerous city in Europe. #Nothingtodowithislam @BristolComSense"
+
+
+
+"If you have termites in your house, basic common sense says let them stay and just firebomb a termite colony across the street instead."
+
+
+
+"#ParisAttacks are NOT an attack against all "humanity." They are against WESTERN civilization."
+
+
+
+"@WaifuKaori @NononJakuzure18 @vicmandrake There's a reason why trannies are disgusting. Many reasons really."
+
+
+
+"Since we're talking about #BlackOnCampus, let's just be honest & admit that most of the blacks on campus aren't qualified to be there"
+
+
+
+"@2dAmMuslim ::as species dies:: let it be known that women are useless"
+
+
+
+"Jews should know Every Single Thing about Islam is PEACE. Islam did not start any war, it was the JEWS for being greedy to the CORE."
+
+
+
+"Being #BlackonCampus makes you eligible for financial aid that white students don't get #NationalOffendACollegeStudentDay"
+
+
+
+"Raising the average IQ of Arabs will eliminate Islam faster than anything. Can be done with CRISPR."]]></TEXT>
+<TAGS>
+<Group id="G0" spans="60~70" text="urban yoof" age="Young" gender="Male" race="Black" slur="hateful" hate="yes" />
+<Group id="G1" spans="81~106" text="good boys who dindunuffin" race="Black" gender="Male" age="Young" hate="yes" slur="hateful" />
+<Group id="G2" spans="178~184" text="Moslem" hate="yes" slur="hateful" religion="Muslim" />
+<Group id="G3" spans="576~584" text="trannies" hate="yes" slur="hateful" genderID="Trans" />
+<Group id="G4" spans="715~721" text="blacks" hate="yes" slur="none" race="Black" />
+<Group id="G5" spans="819~824" text="women" hate="yes" slur="none" gender="Female" />
+<Group id="G6" spans="842~846" text="Jews" hate="yes" slur="none" religion="Jewish" />
+<Group id="G7" spans="1133~1138" text="Arabs" hate="yes" slur="none" race="Middle_Eastern" religion="Muslim" />
+<Group id="G8" spans="900~905" text="Islam" hate="no" slur="none" religion="Muslim" />
+<Group id="G9" spans="940~944" text="JEWS" hate="yes" slur="none" religion="Jewish" />
+<Group id="G10" spans="986~1000" text="#BlackonCampus" hate="no" slur="none" race="Black" />
+<Group id="G11" spans="1043~1048" text="white" hate="no" slur="none" race="White" />
+<Sentiment id="S0" spans="147~226" text="Marseille is approximately 40% Moslem, and is the most dangerous city in Europe" type="warning" />
+<Sentiment id="S1" spans="576~600" text="trannies are disgusting." type="reaction" />
+<Sentiment id="S2" spans="819~836" text="women are useless" type="judgement" />
+<Sentiment id="S3" spans="1182~1205" text="Can be done with CRISPR" type="incitement" />
+<Stereotype id="St0" spans="1~140" text="" type="cultural" />
+<Stereotype id="St1" spans="669~760" text="let&apos;s just be honest &amp; admit that most of the blacks on campus aren&apos;t qualified to be there" type="mental" />
+<Stereotype id="St2" spans="929~974" text="it was the JEWS for being greedy to the CORE." type="behavioral" />
+<Stereotype id="St3" spans="1107~1180" text="Raising the average IQ of Arabs will eliminate Islam faster than anything" type="mental" />
+<Ref id="R0" fromID="St0" fromText="" toID="G0" toText="urban yoof" />
+<Ref id="R1" fromID="G1" fromText="good boys who dindunuffin" toID="G0" toText="urban yoof" />
+<Ref id="R2" fromID="S0" fromText="Marseille is approximately 40% Moslem, and is the most dangerous city in Europe" toID="G2" toText="Moslem" />
+<Ref id="R3" fromID="S1" fromText="trannies are disgusting." toID="G3" toText="trannies" />
+<Ref id="R4" fromID="St1" fromText="let&apos;s just be honest &amp; admit that most of the blacks on campus aren&apos;t qualified to be there" toID="G4" toText="blacks" />
+<Ref id="R5" fromID="S2" fromText="women are useless" toID="G5" toText="women" />
+<Ref id="R6" fromID="St2" fromText="it was the JEWS for being greedy to the CORE." toID="G6" toText="Jews" />
+<Ref id="R7" fromID="St3" fromText="Raising the average IQ of Arabs will eliminate Islam faster than anything" toID="G7" toText="Arabs" />
+<Ref id="R8" fromID="S3" fromText="Can be done with CRISPR" toID="G7" toText="Arabs" />
+</TAGS>
+</HateSpeech_2.0>

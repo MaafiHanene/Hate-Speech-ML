@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["@Str8Grandmother those people deserve to b assassinated God destroyed Sodom & Gomorah because of that act. So i suport that government"
+
+"y'all can be gay/trans without dressing so FUCKIN retarded"
+
+"That’s Ted Cruz for you. Protecting women’s ‘rights’ to murder their unborn children in good health. @cgpb #UnbornLivesMatter #ProLife"
+
+"@Cricket_88 @BernieSanders Well men should be head of the household. #GenderRoles, they exist for a reason."
+
+"women suck"
+
+"@danlev please include in these "rights" the right to be treated of the mental illness that is homosexualism."
+
+"January 18th, White Aryan Peoples Heritage Day, \"All people are Not Equal\"."
+
+"God says same sex marriage is an abomination (Leviticus 18:22)"
+
+"I think if Islam changed the hijab rule to only apply to hoes as punishment for being hoes I would become a muslim"
+
+"hey girl are you a jew because I don't like you"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="-1~-1" text="" hate="yes" orientation="Gay" slur="none" />
+<Group id="G1" spans="152~155" text="gay" hate="yes" orientation="Gay" slur="none" />
+<Group id="G2" spans="156~161" text="trans" hate="yes" genderID="Trans" slur="none" />
+<Group id="G3" spans="237~242" text="women" slur="none" gender="Female" hate="no" />
+<Group id="G4" spans="371~374" text="men" hate="no" slur="none" gender="Male" />
+<Group id="G5" spans="450~455" text="women" gender="Female" hate="yes" slur="none" />
+<Group id="G6" spans="559~572" text="homosexualism" slur="none" orientation="Gay" hate="yes" />
+<Group id="G7" spans="591~610" text="White Aryan Peoples" hate="no" slur="none" race="White" />
+<Group id="G8" spans="667~684" text="same sex marriage" hate="no" slur="none" />
+<Group id="G9" spans="861~864" text="jew" hate="yes" slur="none" religion="Jewish" />
+<Group id="G10" spans="781~785" text="hoes" hate="yes" slur="hateful" gender="Female" />
+<Sentiment id="S0" spans="18~107" text="those people deserve to b assassinated God destroyed Sodom &amp; Gomorah because of that act." type="incitement" />
+<Sentiment id="S1" spans="139~197" text="y&apos;all can be gay/trans without dressing so FUCKIN retarded" type="judgement" />
+<Sentiment id="S2" spans="450~460" text="women suck" type="judgement" />
+<Sentiment id="S3" spans="532~573" text="the mental illness that is homosexualism." type="judgement" />
+<Sentiment id="S4" spans="667~702" text="same sex marriage is an abomination" type="judgement" />
+<Sentiment id="S5" spans="873~889" text="I don&apos;t like you" type="reaction" />
+<Sentiment id="S6" spans="724~838" text="I think if Islam changed the hijab rule to only apply to hoes as punishment for being hoes I would become a muslim" type="reaction" />
+<Ref id="R0" fromID="S0" fromText="those people deserve to b assassinated God destroyed Sodom &amp; Gomorah because of that act." toID="G0" toText="" />
+<Ref id="R1" fromID="S1" fromText="y&apos;all can be gay/trans without dressing so FUCKIN retarded" toID="G2" toText="trans" />
+<Ref id="R2" fromID="S1" fromText="y&apos;all can be gay/trans without dressing so FUCKIN retarded" toID="G1" toText="gay" />
+<Ref id="R3" fromID="S2" fromText="women suck" toID="G5" toText="women" />
+<Ref id="R4" fromID="S3" fromText="the mental illness that is homosexualism." toID="G6" toText="homosexualism" />
+<Ref id="R5" fromID="S5" fromText="I don&apos;t like you" toID="G9" toText="jew" />
+<Ref id="R6" fromID="S6" fromText="I think if Islam changed the hijab rule to only apply to hoes as punishment for being hoes I would become a muslim" toID="G10" toText="hoes" />
+</TAGS>
+</HateSpeech_2.0>

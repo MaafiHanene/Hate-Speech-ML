@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["WNs think they have the Jews on the run, but Jews have us right where they want us, not being violent and memeing for a fucking election."
+
+"does Africa have malls"
+
+"Eventually, whites will need to relearn how to create networks which can mark & hold territory - street by street. All other races do this."
+
+"your nudes don't need a "deep" caption you fuckin thots"
+
+"WNs think they have the Jews on the run, but Jews have us right where they want us, not being violent and memeing for a fucking election."
+
+"STRENGTHEN THE PATRIARCHY"
+
+"Swedes pay 33% taxes of they paycheck so asylum seekers can be given benefits like free health/dental care"
+
+"@AlohaMelanie_ you can write me a 1000 page book I wouldn't care gay ppl already can get married they don't need to raise kids"
+
+"the black in Star Wars made no sense why was he always scared and running away"
+
+"National Socialism cares for its country and its people. We care for our race. Democracies are too busy helping other countries."]]></TEXT>
+<TAGS>
+<Group id="G0" spans="25~29" text="Jews" hate="yes" religion="Jewish" slur="none" />
+<Group id="G1" spans="46~50" text="Jews" hate="yes" religion="Jewish" slur="none" />
+<Group id="G2" spans="147~153" text="Africa" hate="no" slur="none" />
+<Group id="G3" spans="180~186" text="whites" hate="no" race="White" slur="none" />
+<Group id="G4" spans="361~366" text="thots" hate="yes" slur="hateful" gender="Female" />
+<Group id="G5" spans="540~546" text="Swedes" hate="no" nationality="Sweden" slur="none" />
+<Group id="G6" spans="715~722" text="gay ppl" hate="yes" slur="none" orientation="Gay" />
+<Group id="G7" spans="784~789" text="black" hate="no" slur="none" race="Black" />
+<Sentiment id="S0" spans="51~83" text="have us right where they want us" type="warning" />
+<Sentiment id="S1" spans="179~262" text=" whites will need to relearn how to create networks which can mark &amp; hold territory" type="incitement" />
+<Sentiment id="S2" spans="752~776" text="don&apos;t need to raise kids" type="judgement" />
+<Ref id="R0" fromID="S0" fromText="have us right where they want us" toID="G1" toText="Jews" />
+<Ref id="R1" fromID="S2" fromText="don&apos;t need to raise kids" toID="G6" toText="gay ppl" />
+</TAGS>
+</HateSpeech_2.0>

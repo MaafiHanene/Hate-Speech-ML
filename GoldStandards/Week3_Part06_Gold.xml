@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["if you won't fight, and you won't breed, what are you and why are you here? #TeamWhite"
+
+"Jew/cuck #SignsYoureABernieSupporter"
+
+"Saw these 2 gay guys getting married and kissing and stuff on tv... My eyes hurt ew"
+
+"if you insult a vagina on Twitter every thot becomes an educated vaginologist"
+
+"Satan leads his followers into racism."
+
+"why are there starving Africans just eat a lion"
+
+"I don't mind people being gay but there is a point where it can be taken way too far"
+
+"A woman saying \“I’m not mad at you\” is like a dentist saying \“You won’t feel a thing.\”"
+
+"Pro-Nazi White racists who respect US Veterans who killed the Nazis and spread anti-racist Muricanism for Jews. #WeirdThingsICantUnderstand"
+
+"What’s the difference between a baby and a feminist? Eventually, a baby grows up and stops crying"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="91~94" text="Jew" hate="no" slur="none" religion="Jewish" />
+<Group id="G1" spans="143~146" text="gay" slur="none" orientation="Gay" hate="yes" />
+<Group id="G2" spans="234~240" text="vagina" hate="yes" slur="none" gender="Female" />
+<Group id="G3" spans="364~372" text="Africans" hate="no" slur="none" nationality="Africa" />
+<Group id="G4" spans="418~421" text="gay" slur="none" hate="yes" orientation="Gay" />
+<Group id="G5" spans="482~487" text="woman" hate="no" slur="none" gender="Female" />
+<Sentiment id="S0" spans="199~214" text="My eyes hurt ew" type="reaction" />
+<Sentiment id="S1" spans="218~295" text="if you insult a vagina on Twitter every thot becomes an educated vaginologist" type="warning" />
+<Sentiment id="S2" spans="426~476" text="there is a point where it can be taken way too far" type="reaction" />
+<Stereotype id="St0" spans="480~569" text="A woman saying \“I’m not mad at you\” is like a dentist saying \“You won’t feel a thing.\" type="behavioral" />
+<Ref id="R0" fromID="S0" fromText="My eyes hurt ew" toID="G1" toText="gay" />
+<Ref id="R1" fromID="S1" fromText="if you insult a vagina on Twitter every thot becomes an educated vaginologist" toID="G2" toText="vagina" />
+<Ref id="R2" fromID="S2" fromText="there is a point where it can be taken way too far" toID="G4" toText="gay" />
+<Ref id="R3" fromID="St0" fromText="A woman saying \“I’m not mad at you\” is like a dentist saying \“You won’t feel a thing.\" toID="G5" toText="woman" />
+</TAGS>
+</HateSpeech_2.0>

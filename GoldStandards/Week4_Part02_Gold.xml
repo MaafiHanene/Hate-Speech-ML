@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["Still Oprah had a TV show..Dr Dre had some headphones.....Bill Cosby had a secret sex life..Random Africans run fast...suppose that's input"
+
+
+
+"Overhead in Wandsworth Prison.....gang of Paki and black boys \" The Queens Crown Jewels were dug up by us WE made this country of OURS rich\""
+
+
+
+"They are the ultimate hypocrites they cry over The Holocaust yet they have done WORSE to MORE in Palestine and worse they are proud of it?"
+
+
+
+"\"I'm white. How can I be #antiwhite?\" By being a sick, self-hating traitor #MORON. #whitegenocide #antiwhitism #waronwhites"
+
+
+
+"Twitter is full of gay ppl now. ew find Jesus"
+
+
+
+"Maybe we are all equal.......maybe white people aren't superior....................sorry!.....fell over banged my head!!!! forgive me!!!!"
+
+
+
+"What do you call a mosquito on a feminist’s cheek? A fucking golden opportunity!!!"
+
+
+
+"Aryanbrotherhooduk @whiteBriton banned temporarily for speaking the truth......disgusting!"
+
+
+
+"Just think of the possibilities for every single person in this country if these already obscenely rich people paid their fucking taxes."
+
+
+
+"shout out to @whiteBriton banned for now from Twitter...missing insight and passion brothers come on you liberal Jewish twitter scum"
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="188~192" text="Paki" slur="hateful" hate="yes" nationality="Pakistan" />
+<Group id="G1" spans="197~207" text="black boys" hate="yes" race="Black" slur="none" />
+<Group id="G2" spans="444~449" text="white" slur="none" hate="no" race="White" />
+<Group id="G3" spans="588~595" text="gay ppl" slur="none" hate="yes" orientation="Gay" />
+<Group id="G4" spans="655~667" text="white people" hate="yes" slur="none" race="White" reverse="yes" />
+<Group id="G5" spans="1046~1057" text="rich people" hate="no" slur="none" class="Rich" />
+<Group id="G6" spans="1202~1208" text="Jewish" religion="Jewish" hate="yes" slur="none" />
+<Group id="G7" spans="-1~-1" text="" religion="Jewish" hate="yes" slur="none" />
+<Sentiment id="S0" spans="294~326" text="They are the ultimate hypocrites" type="judgement" />
+<Sentiment id="S1" spans="601~603" text="ew" type="reaction" />
+<Sentiment id="S2" spans="604~614" text="find Jesus" type="incitement" />
+<Sentiment id="S3" spans="649~753" text="maybe white people aren&apos;t superior....................sorry!.....fell over banged my head!!!! forgive me" type="judgement" other="most pathetic joke I&apos;ve ever seen" />
+<Stereotype id="St0" spans="326~354" text=" they cry over The Holocaust" type="cultural" />
+<Stereotype id="St1" spans="359~400" text="they have done WORSE to MORE in Palestine" type="cultural" />
+<Stereotype id="St2" spans="401~431" text="and worse they are proud of it" type="cultural" />
+<Stereotype id="St3" spans="1194~1221" text="liberal Jewish twitter scum" type="behavioral" />
+<Stereotype id="St4" spans="1115~1142" text="banned for now from Twitter" type="behavioral" />
+<Ref id="R0" fromID="St4" fromText="banned for now from Twitter" toID="G6" toText="Jewish" />
+<Ref id="R1" fromID="St3" fromText="liberal Jewish twitter scum" toID="G6" toText="Jewish" />
+<Ref id="R2" fromID="S3" fromText="maybe white people aren&apos;t superior....................sorry!.....fell over banged my head!!!! forgive me" toID="G4" toText="white people" />
+<Ref id="R3" fromID="S1" fromText="ew" toID="G3" toText="gay ppl" />
+<Ref id="R4" fromID="S0" fromText="They are the ultimate hypocrites" toID="G7" toText="" />
+<Ref id="R5" fromID="St0" fromText=" they cry over The Holocaust" toID="G7" toText="" />
+<Ref id="R6" fromID="St1" fromText="they have done WORSE to MORE in Palestine" toID="G7" toText="" />
+<Ref id="R7" fromID="St2" fromText="and worse they are proud of it" toID="G7" toText="" />
+</TAGS>
+</HateSpeech_2.0>

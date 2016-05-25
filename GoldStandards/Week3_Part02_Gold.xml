@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["As we Whites bicker amongst ourselves about this or that, Jews are passing laws throughout White nations to criminalize antisemitism."
+
+"Gays/Lesbians are so disgusting nd degrading. I am so ashamed anytime I rememba it z allowed in America. Foolish bastards!"
+
+"Boomers wanting their kids & grandkids to grow up in the America they did are laudable, but so many fail to see that THAT America was White."
+
+"Infidels claim there is no gender equality in Islam - LIES Muslamic women are allowed to throw rocks At Jews... "
+
+"@RachelCohen12 Its NOT a human right to be a mentally ill homosexual."
+
+"Follow if you agree. We need to elect men and women to office who will lead this nation back to \"one nation under God.\""
+
+"Race-war (the struggle between races) is happening right now. It's the permanent condition of mankind, not a hypothetical future event #WPWW"
+
+"Israel contributes to clearing out the residents of the Middle East for a #GreaterIsrael #greaterisraelproject"
+
+"The survival of western society depends heavily on enough individuals being racist, homophobic, bigoted and sexist"
+
+"A lot of yall just "lesbians" because a man never took the true time and effort to treat you like a woman should be treated."]]></TEXT>
+<TAGS>
+<Group id="G0" spans="59~63" text="Jews" hate="yes" slur="none" religion="Jewish" />
+<Group id="G1" spans="138~142" text="Gays" hate="yes" slur="none" orientation="Gay" />
+<Group id="G2" spans="143~151" text="Lesbians" hate="yes" slur="none" orientation="Lesbian" />
+<Group id="G3" spans="467~481" text="Muslamic women" hate="no" slur="none" religion="Muslim" gender="Female" />
+<Group id="G4" spans="582~592" text="homosexual" orientation="Gay" hate="yes" slur="none" />
+<Group id="G5" spans="1118~1126" text="lesbians" hate="yes" slur="none" orientation="Lesbian" />
+<Sentiment id="S0" spans="68~133" text="passing laws throughout White nations to criminalize antisemitism" type="judgement" />
+<Sentiment id="S2" spans="138~183" text="Gays/Lesbians are so disgusting nd degrading." type="judgement" />
+<Sentiment id="S3" spans="183~241" text=" I am so ashamed anytime I rememba it z allowed in America" type="reaction" />
+<Sentiment id="S4" spans="243~259" text="Foolish bastards" type="judgement" />
+<Sentiment id="S5" spans="569~581" text="mentally ill" type="judgement" />
+<Sentiment id="S6" spans="1098~1222" text="A lot of yall just &quot;lesbians&quot; because a man never took the true time and effort to treat you like a woman should be treated." type="judgement" />
+<Ref id="R0" fromID="S0" fromText="passing laws throughout White nations to criminalize antisemitism" toID="G0" toText="Jews" />
+<Ref id="R1" fromID="S2" fromText="Gays/Lesbians are so disgusting nd degrading." toID="G2" toText="Lesbians" />
+<Ref id="R2" fromID="S3" fromText=" I am so ashamed anytime I rememba it z allowed in America" toID="G2" toText="Lesbians" />
+<Ref id="R3" fromID="S4" fromText="Foolish bastards" toID="G1" toText="Gays" />
+<Ref id="R4" fromID="S4" fromText="Foolish bastards" toID="G2" toText="Lesbians" />
+</TAGS>
+</HateSpeech_2.0>

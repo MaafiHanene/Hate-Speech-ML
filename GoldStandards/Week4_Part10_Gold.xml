@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["Syrian refugees lost family members. They don't blame Islam, they blame US. If we bring them then might as well give'm bomb making materials"
+
+
+
+"#BlackLivesMatter is a domestic terrorist organization that advocates separate legal standards for blacks. Period. And It is a hate group."
+
+
+
+"How u gonna accuse Mexicans of living off Americans and saying they're lazy when you then say they're taking all of the jobs..."
+
+
+
+"\"Trannies were a mistake. They're nothing but trash.\" - @Pencoin"
+
+
+
+"Black people have raped, robbed, assaulted and killed white people for DECADES. Is it any surprise they now want the right to resist arrest?"
+
+
+
+"the reason money people get away with tax is they can afford good lawyers"
+
+
+
+"#BlackOnCampus #IthacaCollege Blah, blah, blah give us stuff white ppl."
+
+
+
+"Horrible scum thinking we are racist cos we know... @WHITEBRITON ARYAN LIFE LESSON 1 - WHITE IS RIGHT........FUCK you non white scum"
+
+
+
+"@BrydensNotFunny that'd only because women talk too much."
+
+
+
+"#Mizzou Nazi's haven't killed anyone since WWII yet a swastika = outrage. How about gang tags on campus? That's more indicative of violence."]]></TEXT>
+<TAGS>
+<Group id="G0" spans="1~16" text="Syrian refugees" hate="yes" slur="none" nationality="Syria" immigrant_status="Refugee" />
+<Group id="G1" spans="310~318" text="Mexicans" hate="yes" slur="none" nationality="Mexico" />
+<Group id="G2" spans="426~434" text="Trannies" hate="yes" slur="hateful" genderID="Trans" />
+<Group id="G3" spans="496~501" text="Black" hate="yes" slur="none" race="Black" />
+<Group id="G4" spans="721~735" text="#BlackOnCampus" hate="yes" slur="none" race="Black" />
+<Group id="G5" spans="885~890" text="WHITE" hate="yes" reverse="yes" slur="none" race="White" />
+<Group id="G6" spans="973~978" text="women" hate="yes" slur="none" gender="Female" />
+<Group id="G7" spans="333~342" text="Americans" slur="none" hate="no" nationality="United States of America" />
+<Group id="G8" spans="550~562" text="white people" hate="no" slur="none" race="White" />
+<Group id="G9" spans="653~665" text="money people" hate="no" slur="none" class="Rich" />
+<Group id="G10" spans="782~791" text="white ppl" hate="no" slur="none" race="White" />
+<Group id="G11" spans="916~930" text="non white scum" hate="yes" slur="hateful" race="White" reverse="yes" />
+<Sentiment id="S0" spans="77~141" text="If we bring them then might as well give&apos;m bomb making materials" type="warning" />
+<Sentiment id="S1" spans="310~342" text="Mexicans of living off Americans" type="judgement" nonhate="outside_ref" />
+<Sentiment id="S2" spans="426~477" text="Trannies were a mistake. They&apos;re nothing but trash." type="judgement" other="I don&apos;t think this counts as an outside_ref" />
+<Sentiment id="S3" spans="496~575" text="Black people have raped, robbed, assaulted and killed white people for DECADES." type="judgement" />
+<Sentiment id="S4" spans="721~792" text="#BlackOnCampus #IthacaCollege Blah, blah, blah give us stuff white ppl." type="judgement" />
+<Sentiment id="S5" spans="907~930" text="FUCK you non white scum" type="reaction" />
+<Stereotype id="St0" spans="354~366" text="they&apos;re lazy" type="behavioral" nonhate="outside_ref" />
+<Stereotype id="St1" spans="385~418" text="they&apos;re taking all of the jobs..." type="behavioral" nonhate="outside_ref" />
+<Stereotype id="St2" spans="973~993" text="women talk too much." type="behavioral" />
+<Ref id="R0" fromID="S0" fromText="If we bring them then might as well give&apos;m bomb making materials" toID="G0" toText="Syrian refugees" />
+<Ref id="R1" fromID="S1" fromText="Mexicans of living off Americans" toID="G1" toText="Mexicans" />
+<Ref id="R2" fromID="St0" fromText="they&apos;re lazy" toID="G1" toText="Mexicans" />
+<Ref id="R3" fromID="St1" fromText="they&apos;re taking all of the jobs..." toID="G1" toText="Mexicans" />
+<Ref id="R4" fromID="S2" fromText="Trannies were a mistake. They&apos;re nothing but trash." toID="G2" toText="Trannies" />
+<Ref id="R5" fromID="S3" fromText="Black people have raped, robbed, assaulted and killed white people for DECADES." toID="G3" toText="Black" />
+<Ref id="R6" fromID="S4" fromText="#BlackOnCampus #IthacaCollege Blah, blah, blah give us stuff white ppl." toID="G4" toText="#BlackOnCampus" />
+<Ref id="R7" fromID="S5" fromText="FUCK you non white scum" toID="G5" toText="WHITE" />
+<Ref id="R8" fromID="St2" fromText="women talk too much." toID="G6" toText="women" />
+</TAGS>
+</HateSpeech_2.0>

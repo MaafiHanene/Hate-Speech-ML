@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["the apple ceo guy is gay. No wonder the new iphone 6 bends.faggot. #stevejobsdidntdieforthis"
+
+
+
+"#hatefact #2. Blacks are overrepresented in support and admin roles, which is why the military is an inefficient, ineffective mess."
+
+
+
+"The difference between a coon and a 9 inch pizza......A pizza will feed a family of four!"
+
+
+
+"Good deeds will conquer bad people & light will banish shade - white people are hurting we should decide our own cure...death to the enemy"
+
+
+
+"@StephenNolan @audioBoom Homosexuality is vile, repugnant, repulsive, immoral, unnatural, evil, sinful etc as is alcoholism & drug addiction"
+
+
+
+"Black \"activists\" destroy millions of $ in property, shut down cities, over incidents later found legally justified. #OregonUnderAttack"
+
+
+
+"Blacks can't be turned into responsible inheritors or contributors. They can only be undeserving beneficiaries of Western civilization."
+
+
+
+"#MizzouFootballStrike Could white taxpayers possibly cuck themselves any more? We pay for all these entitled fucks from cradle to grave."
+
+
+
+"Blacks will never incline toward Anglo-Saxon concepts of property, rights, liberty, or self-government. They lack tradition and experience."
+
+
+
+"Because as we all know, gay people aren't actually people because they're immoral CAUSE THE BIBLE OMMMMMGGGGG"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="22~25" text="gay" orientation="Gay" hate="yes" slur="none" />
+<Group id="G1" spans="60~66" text="faggot" orientation="Gay" hate="yes" slur="hateful" />
+<Group id="G2" spans="113~119" text="Blacks" hate="yes" slur="none" race="Black" />
+<Group id="G3" spans="261~265" text="coon" hate="yes" slur="hateful" race="Black" />
+<Group id="G4" spans="394~399" text="white" hate="yes" reverse="yes" slur="none" race="White" />
+<Group id="G5" spans="500~513" text="Homosexuality" hate="yes" slur="none" orientation="Gay" />
+<Group id="G6" spans="621~640" text="Black \&quot;activists\&quot;" hate="yes" slur="none" race="Black" />
+<Group id="G7" spans="764~770" text="Blacks" hate="yes" slur="none" race="Black" />
+<Group id="G8" spans="933~938" text="white" reverse="yes" slur="none" race="White" hate="no" />
+<Group id="G9" spans="1047~1053" text="Blacks" hate="yes" slur="none" race="Black" />
+<Group id="G10" spans="1216~1219" text="gay" hate="no" slur="none" orientation="Gay" />
+<Sentiment id="S1" spans="331~469" text="Good deeds will conquer bad people &amp; light will banish shade - white people are hurting we should decide our own cure...death to the enemy" type="incitement" />
+<Sentiment id="S2" spans="500~615" text="Homosexuality is vile, repugnant, repulsive, immoral, unnatural, evil, sinful etc as is alcoholism &amp; drug addiction" type="judgement" />
+<Sentiment id="S3" spans="699~758" text="incidents later found legally justified. #OregonUnderAttack" type="judgement" />
+<Sentiment id="S4" spans="764~898" text="Blacks can&apos;t be turned into responsible inheritors or contributors. They can only be undeserving beneficiaries of Western civilization" type="judgement" />
+<Sentiment id="S5" spans="1054~1149" text="will never incline toward Anglo-Saxon concepts of property, rights, liberty, or self-government" type="judgement" />
+<Sentiment id="S6" spans="112~229" text=" Blacks are overrepresented in support and admin roles, which is why the military is an inefficient, ineffective mess" type="judgement" />
+<Sentiment id="S8" spans="1220~1273" text="people aren&apos;t actually people because they&apos;re immoral" type="judgement" nonhate="sarcasm" />
+<Stereotype id="St0" spans="1~59" text="the apple ceo guy is gay. No wonder the new iphone 6 bends" type="behavioral" />
+<Stereotype id="St1" spans="112~229" text=" Blacks are overrepresented in support and admin roles, which is why the military is an inefficient, ineffective mess" type="behavioral" />
+<Stereotype id="St2" spans="236~324" text="The difference between a coon and a 9 inch pizza......A pizza will feed a family of four" type="behavioral" />
+<Stereotype id="St3" spans="1151~1186" text="They lack tradition and experience." type="cultural" />
+<Stereotype id="St6" spans="764~831" text="Blacks can&apos;t be turned into responsible inheritors or contributors." type="behavioral" />
+<Stereotype id="St7" spans="1200~1301" text="as we all know, gay people aren&apos;t actually people because they&apos;re immoral CAUSE THE BIBLE OMMMMMGGGGG" type="behavioral" nonhate="sarcasm" />
+<Ref id="R0" fromID="G1" fromText="faggot" toID="G0" toText="gay" />
+<Ref id="R1" fromID="St0" fromText="the apple ceo guy is gay. No wonder the new iphone 6 bends" toID="G1" toText="faggot" />
+<Ref id="R2" fromID="S6" fromText=" Blacks are overrepresented in support and admin roles, which is why the military is an inefficient, ineffective mess" toID="G2" toText="Blacks" />
+<Ref id="R3" fromID="St2" fromText="The difference between a coon and a 9 inch pizza......A pizza will feed a family of four" toID="G3" toText="coon" />
+<Ref id="R4" fromID="S1" fromText="Good deeds will conquer bad people &amp; light will banish shade - white people are hurting we should decide our own cure...death to the enemy" toID="G4" toText="white" />
+<Ref id="R5" fromID="S2" fromText="Homosexuality is vile, repugnant, repulsive, immoral, unnatural, evil, sinful etc as is alcoholism &amp; drug addiction" toID="G5" toText="Homosexuality" />
+<Ref id="R7" fromID="S4" fromText="Blacks can&apos;t be turned into responsible inheritors or contributors. They can only be undeserving beneficiaries of Western civilization" toID="G7" toText="Blacks" />
+<Ref id="R8" fromID="St3" fromText="They lack tradition and experience." toID="G9" toText="Blacks" />
+<Ref id="R9" fromID="S5" fromText="will never incline toward Anglo-Saxon concepts of property, rights, liberty, or self-government" toID="G9" toText="Blacks" />
+<Ref id="R11"  />
+<Ref id="R12" fromID="S3" fromText="incidents later found legally justified. #OregonUnderAttack" toID="G6" toText="Black \&quot;activists\&quot;" />
+</TAGS>
+</HateSpeech_2.0>

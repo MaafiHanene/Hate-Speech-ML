@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["All these skinny bitches on spring break made me realize that I will still choose food over exercise and just wish for a nice body"
+
+"Why are the Macedonian border police firing tear gas at the illegal immigrants? Shower them with bullets. That'll learn the ungrateful scum."
+
+"What's the difference between my wife and my dog?\n\nAnimals have rights."
+
+"Good. Women are faggots anyways. #VoteTrumpGetDumped #NoGirlsAllowedTwitter"
+
+"RT @ProWhites: Nothing drives the #AntiWhite nuttier than exposing #WhiteGenocide"
+
+"@Feathers__ I hate men they are gross and I will beat them all up for you."
+
+"RT @Super_Moniac: @DRUDGE_REPORT @trump2016fan These BLM parasites have motivated America to get off their ass and overthrow globalist PC establishment"
+
+"Lock Up Your Dogs and Hide Your Preteen Daughters, The Muslim Refugees Are Coming"
+
+"Just said to my dad \"You know what I don't like?\" and his immediate response was \"CHICKS WITH DICKS"\"
+
+"@addamschloe @James_May_Not @Salon Hating white people isn't racist cause white people r the vessels through which all evil enters the world"
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="195~213" text="illegal immigrants" hate="yes" immigrant_status="Immigrant" slur="none" />
+<Group id="G1" spans="362~367" text="Women" hate="yes" slur="none" gender="Female" />
+<Group id="G2" spans="372~379" text="faggots" hate="yes" orientation="Gay" slur="hateful" />
+<Group id="G3" spans="539~542" text="men" hate="yes" slur="none" gender="Male" />
+<Group id="G4" spans="651~654" text="BLM" hate="yes" slur="none" race="Black" />
+<Group id="G5" spans="808~823" text="Muslim Refugees" hate="yes" immigrant_status="Refugee" religion="Muslim" slur="none" />
+<Group id="G6" spans="923~940" text="CHICKS WITH DICKS" hate="yes" slur="hateful" gender="Female" genderID="Trans" />
+<Group id="G7" spans="988~1000" text="white people" hate="yes" slur="none" race="White" />
+<Group id="G8" spans="11~25" text="skinny bitches" hate="yes" gender="Female" body_image="Thin" slur="reclamation" />
+<Group id="G9" spans="503~516" text="WhiteGenocide" hate="yes" reverse="yes" slur="none" race="White" />
+<Sentiment id="S0" spans="215~239" text="Shower them with bullets" type="incitement" />
+<Sentiment id="S1" spans="259~274" text="ungrateful scum" type="judgement" />
+<Sentiment id="S2" spans="362~387" text="Women are faggots anyways" type="judgement" />
+<Sentiment id="S3" spans="503~516" text="WhiteGenocide" type="warning" />
+<Sentiment id="S5" spans="543~557" text="they are gross" type="judgement" />
+<Sentiment id="S6" spans="532~542" text="I hate men" type="reaction" />
+<Sentiment id="S7" spans="562~593" text="I will beat them all up for you" type="incitement" />
+<Sentiment id="S8" spans="655~664" text="parasites" type="judgement" />
+<Sentiment id="S9" spans="753~834" text="Lock Up Your Dogs and Hide Your Preteen Daughters, The Muslim Refugees Are Coming" type="warning" />
+<Sentiment id="S10" spans="860~887" text="You know what I don&apos;t like?" type="reaction" />
+<Sentiment id="S11" spans="981~1086" text="Hating white people isn&apos;t racist cause white people r the vessels through which all evil enters the world" type="judgement" />
+<Ref id="R0" fromID="S2" fromText="Women are faggots anyways" toID="G1" toText="Women" />
+<Ref id="R1" fromID="S3" fromText="WhiteGenocide" toID="G9" toText="WhiteGenocide" />
+<Ref id="R2" fromID="S5" fromText="they are gross" toID="G3" toText="men" />
+<Ref id="R3" fromID="S7" fromText="I will beat them all up for you" toID="G3" toText="men" />
+<Ref id="R4" fromID="S6" fromText="I hate men" toID="G3" toText="men" />
+<Ref id="R5" fromID="S8" fromText="parasites" toID="G4" toText="BLM" />
+<Ref id="R6" fromID="S9" fromText="Lock Up Your Dogs and Hide Your Preteen Daughters, The Muslim Refugees Are Coming" toID="G5" toText="Muslim Refugees" />
+<Ref id="R7" fromID="S10" fromText="You know what I don&apos;t like?" toID="G6" toText="CHICKS WITH DICKS" />
+<Ref id="R8" fromID="S11" fromText="Hating white people isn&apos;t racist cause white people r the vessels through which all evil enters the world" toID="G7" toText="white people" />
+<Ref id="R9" fromID="S0" fromText="Shower them with bullets" toID="G0" toText="illegal immigrants" />
+<Ref id="R10" fromID="S1" fromText="ungrateful scum" toID="G0" toText="illegal immigrants" />
+</TAGS>
+</HateSpeech_2.0>

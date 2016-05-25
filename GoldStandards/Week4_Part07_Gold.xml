@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["Israel is building a massive wall, deporting Africans, refusing Syrian refugees. Yet the neocons support open borders for USA & Europe."
+
+
+
+".@roseperson Interesting how jews hate Whites and they hate Christians, and they constantly agitate to seize their guns."
+
+
+
+"@normangoldman I love how brave liberals are when a wacko shoots a couple people. But when a Muslim blows up a hundred or so there's nothing"
+
+
+
+"When you're dealing with ghetto witnesses you have to assume most will lie except for a handful that accidentally slip the truth."
+
+
+
+"@CNN : I'm a Christian and I totally believe that homosexuality is wrong. God created man & woman. Naturally, opposite attracts, same repels"
+
+
+
+"#4thPrecinctShutDown Time to end welfare. All sense of civil behavior and manners has been lost."
+
+
+
+"Can't wait to here all about how these scumbags were an \"aspiring hip-hop artist,\" or \"football standout\" or \"goin to skoo\" #AmandaBlackburn"
+
+
+
+"mainstream cis gay rights spread idea that gay life isn't trans life. wrong. queer = gender outlaw, until the false option of normalcy"
+
+
+
+"Dindus are horrible at civilization. Hell, they can't even handle being parasitical off another civilization w/o killing off their hosts."
+
+
+
+"Lebanon was a Christian country. They allowed Muslim refugees in, they soon demanded things and took over Lebanon"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="46~54" text="Africans" hate="no" slur="none" race="Black" />
+<Group id="G1" spans="65~80" text="Syrian refugees" hate="no" slur="none" nationality="Syria" immigrant_status="Refugee" />
+<Group id="G2" spans="171~175" text="jews" hate="yes" slur="none" religion="Jewish" />
+<Group id="G3" spans="361~367" text="Muslim" hate="yes" slur="none" religion="Muslim" />
+<Group id="G4" spans="439~445" text="ghetto" hate="yes" slur="hateful" race="Black" />
+<Group id="G5" spans="599~612" text="homosexuality" hate="yes" slur="none" orientation="Gay" />
+<Group id="G6" spans="830~844" text="these scumbags" hate="yes" race="Black" slur="hateful" />
+<Group id="G7" spans="1089~1095" text="Dindus" hate="yes" slur="hateful" race="Black" />
+<Group id="G8" spans="1278~1293" text="Muslim refugees" hate="yes" slur="none" religion="Muslim" />
+<Group id="G9" spans="181~187" text="Whites" hate="no" slur="none" race="White" />
+<Group id="G10" spans="202~212" text="Christians" hate="no" slur="none" religion="Christian" />
+<Group id="G11" spans="562~571" text="Christian" hate="no" slur="none" religion="Christian" />
+<Group id="G12" spans="960~967" text="cis gay" hate="no" slur="none" orientation="Gay" genderID="Cis" />
+<Group id="G13" spans="1007~1012" text="trans" hate="no" slur="none" genderID="Trans" />
+<Group id="G14" spans="1246~1255" text="Christian" hate="no" slur="none" religion="Christian" />
+<Sentiment id="S0" spans="599~622" text="homosexuality is wrong." type="judgement" />
+<Sentiment id="S1" spans="1096~1124" text="are horrible at civilization" type="judgement" />
+<Sentiment id="S2" spans="1132~1225" text="they can&apos;t even handle being parasitical off another civilization w/o killing off their hosts" type="judgement" />
+<Sentiment id="S3" spans="1298~1345" text="they soon demanded things and took over Lebanon" type="judgement" />
+<Stereotype id="St0" spans="171~187" text="jews hate Whites" type="behavioral" />
+<Stereotype id="St1" spans="192~213" text="they hate Christians," type="behavioral" />
+<Stereotype id="St2" spans="218~261" text="they constantly agitate to seize their guns" type="cultural" />
+<Stereotype id="St4" spans="414~488" text="When you&apos;re dealing with ghetto witnesses you have to assume most will lie" type="behavioral" />
+<Stereotype id="St5" spans="829~926" text=" these scumbags were an \&quot;aspiring hip-hop artist,\&quot; or \&quot;football standout\&quot; or \&quot;goin to skoo\&quot;" type="behavioral" />
+<Ref id="R0" fromID="St0" fromText="jews hate Whites" toID="G2" toText="jews" />
+<Ref id="R1" fromID="St1" fromText="they hate Christians," toID="G2" toText="jews" />
+<Ref id="R2" fromID="St2" fromText="they constantly agitate to seize their guns" toID="G2" toText="jews" />
+<Ref id="R4" fromID="St4" fromText="When you&apos;re dealing with ghetto witnesses you have to assume most will lie" toID="G4" toText="ghetto" />
+<Ref id="R5" fromID="S0" fromText="homosexuality is wrong." toID="G5" toText="homosexuality" />
+<Ref id="R6" fromID="St5" fromText=" these scumbags were an \&quot;aspiring hip-hop artist,\&quot; or \&quot;football standout\&quot; or \&quot;goin to skoo\&quot;" toID="G6" toText="these scumbags" />
+<Ref id="R7" fromID="S1" fromText="are horrible at civilization" toID="G7" toText="Dindus" />
+<Ref id="R8" fromID="S2" fromText="they can&apos;t even handle being parasitical off another civilization w/o killing off their hosts" toID="G7" toText="Dindus" />
+<Ref id="R9" fromID="S3" fromText="they soon demanded things and took over Lebanon" toID="G8" toText="Muslim refugees" />
+</TAGS>
+</HateSpeech_2.0>

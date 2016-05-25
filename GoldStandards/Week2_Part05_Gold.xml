@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["Lol remember when the nice Christian European people slaughtered millions of Native Americans, Jews and Africans "
+
+"RT @louboutinpaapi: These gay niggas followed my vine bruh I'm not homophobic but it makes me uncomfortable #serioustweet"
+
+"What do you call a woman who has lost 95% of her intelligence?\n\nDivorced."
+
+"@StrThry @NononJakuzure18 I grew up around Mexicans they always steal shit, and play loud shitty music"
+
+"@SaxonAmbrose \nEven White rapists are racists!"
+
+"But I hate all the mean old ladies at the temple"
+
+"The average IQ in Somalia is 68, dude. It's a Nation of Retards. Muslim Retards. That's the worst kind of Retard."
+
+"RT @dantehicks37: @BadboyBNP Only problem is, in its current state the military exists only to serve Israel."
+
+"Why are we afraid of Taiwanese trannies when it's the Korean men that look like girls"
+
+"Very interested to see if this episode of @AbvAvgShow can change my view of marriage vs kids. Catholics tend to say such stupid things."
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="28~37" text="Christian" hate="no" slur="none" religion="Christian" />
+<Group id="G1" spans="78~94" text="Native Americans" hate="no" slur="none" race="Native_American" />
+<Group id="G2" spans="96~100" text="Jews" hate="no" slur="none" religion="Jewish" />
+<Group id="G3" spans="105~113" text="Africans" hate="no" slur="none" race="Black" />
+<Group id="G4" spans="144~147" text="gay" hate="yes" slur="none" orientation="Gay" />
+<Group id="G5" spans="148~154" text="niggas" hate="no" slur="reclamation" race="Black" />
+<Group id="G6" spans="262~267" text="woman" hate="yes" slur="none" gender="Female" />
+<Group id="G7" spans="365~373" text="Mexicans" hate="yes" slur="none" nationality="Mexico" />
+<Group id="G8" spans="449~454" text="White" hate="no" slur="none" race="White" />
+<Group id="G9" spans="503~506" text="old" hate="no" slur="none" age="Old" />
+<Group id="G10" spans="507~513" text="ladies" hate="no" slur="none" gender="Female" />
+<Group id="G11" spans="549~556" text="Somalia" hate="yes" slur="none" nationality="Somalia" />
+<Group id="G12" spans="587~594" text="Retards" hate="yes" slur="hateful" disability="Mental" />
+<Group id="G13" spans="596~610" text="Muslim Retards" hate="yes" slur="hateful" religion="Muslim" disability="Mental" />
+<Group id="G14" spans="637~643" text="Retard" hate="yes" slur="hateful" disability="Mental" />
+<Group id="G15" spans="749~755" text="Israel" hate="yes" slur="none" religion="Jewish" nationality="Israel" />
+<Group id="G16" spans="781~790" text="Taiwanese" hate="no" slur="none" nationality="Taiwan" />
+<Group id="G17" spans="791~799" text="trannies" hate="yes" slur="hateful" genderID="Trans" />
+<Group id="G18" spans="814~824" text="Korean men" hate="yes" slur="none" gender="Male" nationality="Korea" />
+<Group id="G19" spans="840~845" text="girls" hate="no" slur="none" gender="Female" />
+<Group id="G20" spans="943~952" text="Catholics" hate="yes" slur="none" />
+<Sentiment id="S0" spans="953~983" text="tend to say such stupid things" type="judgement" />
+<Sentiment id="S1" spans="771~777" text="afraid" type="reaction" />
+<Sentiment id="S2" spans="694~755" text="in its current state the military exists only to serve Israel" type="warning" />
+<Sentiment id="S3" spans="570~594" text="It&apos;s a Nation of Retards" type="judgement" />
+<Sentiment id="S4" spans="596~610" text="Muslim Retards" type="judgement" />
+<Sentiment id="S5" spans="612~643" text="That&apos;s the worst kind of Retard" type="judgement" />
+<Sentiment id="S6" spans="243~317" text="What do you call a woman who has lost 95% of her intelligence?\n\nDivorced" type="judgement" />
+<Sentiment id="S7" spans="200~225" text="it makes me uncomfortable" type="reaction" />
+<Stereotype id="St1" spans="374~396" text="they always steal shit" type="behavioral" />
+<Stereotype id="St2" spans="402~424" text="play loud shitty music" type="behavioral" />
+<Stereotype id="St3" spans="830~845" text="look like girls" type="physical" />
+<Ref id="R0" fromID="S0" fromText="tend to say such stupid things" toID="G20" toText="Catholics" />
+<Ref id="R1" fromID="St3" fromText="look like girls" toID="G18" toText="Korean men" />
+<Ref id="R2" fromID="S1" fromText="afraid" toID="G17" toText="trannies" />
+<Ref id="R3" fromID="S2" fromText="in its current state the military exists only to serve Israel" toID="G15" toText="Israel" />
+<Ref id="R5" fromID="S5" fromText="That&apos;s the worst kind of Retard" toID="S4" toText="Muslim Retards" />
+<Ref id="R6" fromID="S3" fromText="It&apos;s a Nation of Retards" toID="G11" toText="Somalia" />
+<Ref id="R7" fromID="S4" fromText="Muslim Retards" toID="G11" toText="Somalia" />
+<Ref id="R8" fromID="St1" fromText="they always steal shit" toID="G7" toText="Mexicans" />
+<Ref id="R9" fromID="St2" fromText="play loud shitty music" toID="G7" toText="Mexicans" />
+<Ref id="R10" fromID="S6" fromText="What do you call a woman who has lost 95% of her intelligence?\n\nDivorced" toID="G6" toText="woman" />
+<Ref id="R11" fromID="S7" fromText="it makes me uncomfortable" toID="G4" toText="gay" />
+</TAGS>
+</HateSpeech_2.0>

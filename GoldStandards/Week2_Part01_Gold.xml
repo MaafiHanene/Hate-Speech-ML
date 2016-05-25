@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["Why don't women know how to ski? \n\nBecause it doesn't snow between the kitchen and the bedroom."
+
+"Indians are so noisy grrrr"
+
+"@ViriAnaRina @jacfalcon @sonic_meerkat The Irish actually were massacred by the Black and Tans during The Troubles"
+
+"America has always been a Nation of Trannies. "
+
+"some white people hate Mexicans in America but they love vacationing over here"
+
+"RT @Bdickerson20: IF MY SON START BEIN GAY, IM SPENDIN ALL MY SAVINGS TO TAKE HIM TO THE PLAYBOY MANSION. IF THAT DONT WORK IM SUEING AND DISOWNING HIM"
+
+"atheists have the highest rate of suicide & im not trying to make things harder, but maybe if they werent such faggots Jesus would love them"
+
+"God knows I hate ugly butch dykes idc"
+
+"Real refugees don't storm fences and dash rocks at the authorities, they take what they're given with absolute gratitude."
+
+"\"You're exploiting men\"= \"Wahh I'm a man baby and I'm angry that a woman is charging for a service I feel entitled to bc I'm a sexist loser\""
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="11~16" text="women" hate="yes" slur="none" gender="Female" />
+<Group id="G1" spans="102~109" text="Indians" hate="yes" nationality="India" slur="none" />
+<Group id="G2" spans="175~180" text="Irish" hate="no" slur="none" nationality="Ireland" />
+<Group id="G3" spans="212~217" text="Black" hate="no" slur="none" race="Black" />
+<Group id="G4" spans="250~257" text="America" hate="yes" slur="none" nationality="United_States" />
+<Group id="G5" spans="286~294" text="Trannies" hate="yes" slur="hateful" genderID="Trans" />
+<Group id="G6" spans="305~317" text="white people" hate="no" race="White" slur="none" />
+<Group id="G7" spans="323~331" text="Mexicans" hate="no" nationality="Mexico" slur="none" />
+<Group id="G8" spans="421~424" text="GAY" hate="yes" orientation="Gay" slur="none" />
+<Group id="G9" spans="537~545" text="atheists" slur="none" religion="other" other="atheist" hate="yes" />
+<Group id="G10" spans="648~655" text="faggots" hate="yes" slur="hateful" orientation="Gay" />
+<Group id="G11" spans="709~714" text="dykes" hate="yes" orientation="Lesbian" slur="hateful" />
+<Group id="G12" spans="727~735" text="refugees" hate="no" slur="none" immigrant_status="Refugee" />
+<Group id="G13" spans="867~870" text="men" gender="Male" hate="no" slur="none" />
+<Group id="G14" spans="917~922" text="woman" gender="Female" hate="no" slur="none" />
+<Group id="G15" spans="887~890" text="man" hate="no" gender="Male" slur="none" />
+<Sentiment id="S0" spans="110~122" text="are so noisy" type="judgement" />
+<Sentiment id="S1" spans="488~533" text="IF THAT DONT WORK IM SUEING AND DISOWNING HIM" type="warning" />
+<Sentiment id="S2" spans="250~295" text="America has always been a Nation of Trannies." type="judgement" />
+<Sentiment id="S3" spans="628~677" text="if they werent such faggots Jesus would love them" type="judgement" />
+<Sentiment id="S4" spans="691~714" text="I hate ugly butch dykes" type="reaction" />
+<Stereotype id="St0" spans="698~708" text="ugly butch" type="physical" />
+<Stereotype id="St1" spans="736~842" text="don&apos;t storm fences and dash rocks at the authorities, they take what they&apos;re given with absolute gratitude" type="behavioral" />
+<Stereotype id="St2" spans="1~98" text="Why don&apos;t women know how to ski? \n\nBecause it doesn&apos;t snow between the kitchen and the bedroom." type="behavioral" />
+<Ref id="R0" fromID="St2" fromText="Why don&apos;t women know how to ski? \n\nBecause it doesn&apos;t snow between the kitchen and the bedroom." toID="G0" toText="women" />
+<Ref id="R2" fromID="S0" fromText="are so noisy" toID="G1" toText="Indians" />
+<Ref id="R3" fromID="S2" fromText="America has always been a Nation of Trannies." toID="G4" toText="America" />
+<Ref id="R4" fromID="S1" fromText="IF THAT DONT WORK IM SUEING AND DISOWNING HIM" toID="G8" toText="GAY" />
+<Ref id="R5" fromID="S3" fromText="if they werent such faggots Jesus would love them" toID="G9" toText="atheists" />
+<Ref id="R6" fromID="S4" fromText="I hate ugly butch dykes" toID="G11" toText="dykes" />
+<Ref id="R7" fromID="St0" fromText="ugly butch" toID="G11" toText="dykes" />
+<Ref id="R8" fromID="St1" fromText="don&apos;t storm fences and dash rocks at the authorities, they take what they&apos;re given with absolute gratitude" toID="G12" toText="refugees" />
+</TAGS>
+</HateSpeech_2.0>

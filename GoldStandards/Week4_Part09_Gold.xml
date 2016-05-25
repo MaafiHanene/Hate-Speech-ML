@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["We know that b/w #AffirmativeAction & athletes, a significant number of blacks don't get into college based on merit #BlackOnCampus"
+
+
+
+"#Mizzou has taken cucked to new heights. Liberal wymynz defending their rapists. Dindus demanding more gibsmedats be gibs to dem. Lol. Wtaf?"
+
+
+
+"It must be awful to be named Muhammad, when you realise that you're named after the worst child-raping psycho in the history of the world."
+
+
+
+"white women are so stupid. ugh"
+
+
+
+"I'll never support fat people. I believe in strength and perseverance. I'll never condone weakness and call it acceptance."
+
+
+
+"Sports, especially physical sports, emulate war. Athletes are mostly under-developed men with no agency who "play" at being soldiers."
+
+
+
+"Can't we just admit that collegiate sports are a joke? You take ghetto hoodrats and let them go to skoo cuz they play sportsball. Lol"
+
+
+
+"Evolution will work itself out. Whites are awakening. And we will triumph over the muddy degenerate masses of muds like we always have."
+
+
+
+"Before feminism, before Marxism, classical liberalism was already a chaos-worshipping death cult seeking to destroy civilisation."
+
+
+
+"Why do people care about blacks when blacks don’t even care about themselves or the welfare of others?"
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="73~79" text="blacks" hate="yes" slur="none" race="Black" />
+<Group id="G1" spans="219~225" text="Dindus" hate="yes" slur="hateful" race="Black" />
+<Group id="G2" spans="428~439" text="white women" hate="yes" slur="none" gender="Female" race="White" />
+<Group id="G3" spans="483~493" text="fat people" hate="yes" slur="none" body_image="Fat" />
+<Group id="G4" spans="795~810" text="ghetto hoodrats" hate="yes" slur="hateful" race="Black" class="Poor" />
+<Group id="G5" spans="953~984" text="muddy degenerate masses of muds" hate="yes" slur="hateful" race="White" reverse="yes" />
+<Group id="G6" spans="1171~1177" text="blacks" hate="yes" slur="none" race="Black" />
+<Group id="G7" spans="1183~1189" text="blacks" hate="yes" slur="none" race="Black" />
+<Group id="G8" spans="187~193" text="wymynz" hate="yes" slur="hateful" gender="Female" />
+<Group id="G9" spans="902~908" text="Whites" hate="no" slur="none" race="White" />
+<Sentiment id="S1" spans="464~493" text="I&apos;ll never support fat people" type="reaction" />
+<Sentiment id="S2" spans="535~586" text="I&apos;ll never condone weakness and call it acceptance." type="judgement" />
+<Sentiment id="S3" spans="870~1004" text="Evolution will work itself out. Whites are awakening. And we will triumph over the muddy degenerate masses of muds like we always have" type="incitement" />
+<Sentiment id="S4" spans="1183~1247" text="blacks don’t even care about themselves or the welfare of others" type="judgement" />
+<Stereotype id="St0" spans="49~117" text="a significant number of blacks don&apos;t get into college based on merit" type="mental" />
+<Stereotype id="St1" spans="210~266" text="rapists. Dindus demanding more gibsmedats be gibs to dem" type="behavioral" />
+<Stereotype id="St2" spans="756~864" text="collegiate sports are a joke? You take ghetto hoodrats and let them go to skoo cuz they play sportsball. Lol" type="behavioral" />
+<Stereotype id="St3" spans="428~458" text="white women are so stupid. ugh" type="mental" />
+<Ref id="R0" fromID="St0" fromText="a significant number of blacks don&apos;t get into college based on merit" toID="G0" toText="blacks" />
+<Ref id="R1" fromID="St1" fromText="rapists. Dindus demanding more gibsmedats be gibs to dem" toID="G1" toText="Dindus" />
+<Ref id="R3" fromID="S1" fromText="I&apos;ll never support fat people" toID="G3" toText="fat people" />
+<Ref id="R4" fromID="S2" fromText="I&apos;ll never condone weakness and call it acceptance." toID="G3" toText="fat people" />
+<Ref id="R5" fromID="St2" fromText="collegiate sports are a joke? You take ghetto hoodrats and let them go to skoo cuz they play sportsball. Lol" toID="G4" toText="ghetto hoodrats" />
+<Ref id="R6" fromID="S3" fromText="Evolution will work itself out. Whites are awakening. And we will triumph over the muddy degenerate masses of muds like we always have" toID="G5" toText="muddy degenerate masses of muds" />
+<Ref id="R7" fromID="S4" fromText="blacks don’t even care about themselves or the welfare of others" toID="G6" toText="blacks" />
+<Ref id="R8" fromID="G7" fromText="blacks" toID="G6" toText="blacks" />
+<Ref id="R9" fromID="St3" fromText="white women are so stupid. ugh" toID="G2" toText="white women" />
+</TAGS>
+</HateSpeech_2.0>

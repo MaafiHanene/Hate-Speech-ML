@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["just met my first black person scary!!!!!"
+
+"I swear there are so many gay guys at my school, it's kinda gross"
+
+"White is right, white is might, long live the Third Reich! Never let our enemies guilt us into submission! Sieg Heil! "
+
+"@6666913 how can black people even be seen when black is the absence of light?"
+
+"Not all muslims are bad! Dead ones are ok"
+
+"I'm tryna figure out why anorexic bitches go to the gym ?"
+
+"I can only laugh at these people who think themselves superior when their own behavior is far more ignoble than those they claim as inferior"
+
+"I'm not a coon I hate all people but niggers fucking up extra lately"
+
+"A lot of women turn into good drivers… So if you’re a good driver, watch out for women who are turning"
+
+"No offense to anybody but one of my biggest fears is having a gay son"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="19~31" text="black person" race="Black" hate="yes" slur="none" />
+<Group id="G1" spans="72~80" text="gay guys" orientation="Gay" hate="yes" slur="none" />
+<Group id="G2" spans="115~120" text="White" hate="yes" reverse="yes" race="White" slur="none" />
+<Group id="G3" spans="131~136" text="white" race="White" slur="none" hate="yes" reverse="yes" />
+<Group id="G5" spans="254~266" text="black people" race="Black" hate="no" slur="none" />
+<Group id="G6" spans="327~334" text="muslims" hate="yes" slur="none" religion="Muslim" />
+<Group id="G8" spans="389~405" text="anorexic bitches" hate="yes" slur="hateful" body_image="Thin" gender="Female" />
+<Group id="G9" spans="579~583" text="coon" hate="yes" slur="hateful" race="Black" />
+<Group id="G10" spans="606~613" text="niggers" hate="yes" slur="hateful" race="Black" />
+<Group id="G11" spans="650~655" text="women" gender="Female" hate="yes" slur="none" />
+<Group id="G12" spans="722~727" text="women" hate="yes" slur="none" gender="Female" />
+<Group id="G13" spans="809~812" text="gay" orientation="Gay" hate="yes" slur="none" />
+<Sentiment id="S0" spans="32~37" text="scary" type="reaction" />
+<Sentiment id="S1" spans="106~111" text="gross" type="reaction" />
+<Sentiment id="S2" spans="115~232" text="White is right, white is might, long live the Third Reich! Never let our enemies guilt us into submission! Sieg Heil!" type="incitement" />
+<Sentiment id="S3" spans="344~360" text="Dead ones are ok" type="incitement" />
+<Sentiment id="S4" spans="606~637" text="niggers fucking up extra lately" type="judgement" />
+<Sentiment id="S5" spans="773~816" text="one of my biggest fears is having a gay son" type="reaction" />
+<Stereotype id="St0" spans="385~421" text="why anorexic bitches go to the gym ?" type="behavioral" />
+<Stereotype id="St1" spans="683~743" text="if you’re a good driver, watch out for women who are turning" type="behavioral" />
+<Ref id="R0" fromID="S0" fromText="scary" toID="G0" toText="black person" />
+<Ref id="R1" fromID="S1" fromText="gross" toID="G1" toText="gay guys" />
+<Ref id="R2" fromID="S2" fromText="White is right, white is might, long live the Third Reich! Never let our enemies guilt us into submission! Sieg Heil!" toID="G2" toText="White" />
+<Ref id="R3" fromID="S3" fromText="Dead ones are ok" toID="G6" toText="muslims" />
+<Ref id="R4" fromID="St0" fromText="why anorexic bitches go to the gym ?" toID="G8" toText="anorexic bitches" />
+<Ref id="R5" fromID="G10" fromText="niggers" toID="G9" toText="coon" />
+<Ref id="R6" fromID="S4" fromText="niggers fucking up extra lately" toID="G10" toText="niggers" />
+<Ref id="R7" fromID="St1" fromText="if you’re a good driver, watch out for women who are turning" toID="G11" toText="women" />
+<Ref id="R8" fromID="G12" fromText="women" toID="G11" toText="women" />
+<Ref id="R9" fromID="S5" fromText="one of my biggest fears is having a gay son" toID="G13" toText="gay" />
+</TAGS>
+</HateSpeech_2.0>

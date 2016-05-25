@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["The Left no longer allows free thought. As such, the Alt Right has become the de facto haven for original, crazy, inspired and funny ideas."
+
+"They're rapists, they're subhumans, and some, I assume, are good doctors, but still need to be deported"
+
+"What homosexuals do to marriage is like another man having sex with your wife in front of your face. Deplorable and cold."
+
+"Wife: \“I read that a bull fucks 3,000x a year, why can’t you do that?\” Me: \“Ask the bull if he fucks the same miserable cow every night\""
+
+"Any conversation with just AltRight folks gets quickly out of control."
+
+"Another gay college football player came out.... what is this world coming too"
+
+"we need to protect the northern border just as much as the southern. Trudeau brings in too many migrants & have u ever tasted Canadian beer?"
+
+"Reminder that Saudis are buying up American land in the SW to grow alfalfa, using the scant water supply there is, and ship it back home"
+
+"\"Conservatism" is a worthless ideology.\" \"hurrdurr let's worship mammon and promote the exact same social policies as Leftists 20 years ago\""
+
+"Moderates turn radical when barely sentient sheboons screech "racist" at them for expressing a milquetoast opinion."]]></TEXT>
+<TAGS>
+<Group id="G0" spans="256~267" text="homosexuals" hate="yes" orientation="Gay" slur="none" />
+<Group id="G1" spans="602~605" text="gay" orientation="Gay" hate="no" slur="none" />
+<Group id="G2" spans="772~780" text="migrants" hate="no" slur="none" immigrant_status="Immigrant" />
+<Group id="G3" spans="834~840" text="Saudis" hate="no" nationality="Saudi Arabia" slur="none" />
+<Group id="G4" spans="1152~1160" text="sheboons" slur="hateful" hate="yes" gender="Female" race="Black" />
+<Group id="G5" spans="-1~-1" text="" hate="yes" immigrant_status="Immigrant" slur="none" />
+<Group id="G6" spans="-1~-1" text="" hate="yes" immigrant_status="Immigrant" slur="none" />
+<Group id="G7" spans="-1~-1" text="" hate="yes" immigrant_status="Immigrant" slur="none" />
+<Sentiment id="S0" spans="152~159" text="rapists" type="judgement" />
+<Sentiment id="S1" spans="169~178" text="subhumans" type="judgement" />
+<Sentiment id="S2" spans="228~247" text="need to be deported" type="incitement" />
+<Sentiment id="S3" spans="251~350" text="What homosexuals do to marriage is like another man having sex with your wife in front of your face" type="judgement" />
+<Sentiment id="S4" spans="352~362" text="Deplorable" type="judgement" />
+<Sentiment id="S5" spans="367~372" text="cold." type="judgement" />
+<Sentiment id="S6" spans="676~744" text="we need to protect the northern border just as much as the southern." type="warning" nonhate="sarcasm" />
+<Sentiment id="S7" spans="1136~1151" text="barely sentient" type="judgement" />
+<Stereotype id="St0" spans="144~160" text="They&apos;re rapists," type="behavioral" />
+<Ref id="R0" fromID="St0" fromText="They&apos;re rapists," toID="G5" toText="" />
+<Ref id="R1" fromID="S1" fromText="subhumans" toID="G6" toText="" />
+<Ref id="R2" fromID="S2" fromText="need to be deported" toID="G7" toText="" />
+<Ref id="R3" fromID="S3" fromText="What homosexuals do to marriage is like another man having sex with your wife in front of your face" toID="G0" toText="homosexuals" />
+<Ref id="R4" fromID="S4" fromText="Deplorable" toID="G0" toText="homosexuals" />
+<Ref id="R5" fromID="S5" fromText="cold." toID="G0" toText="homosexuals" />
+<Ref id="R6" fromID="S7" fromText="barely sentient" toID="G4" toText="sheboons" />
+</TAGS>
+</HateSpeech_2.0>

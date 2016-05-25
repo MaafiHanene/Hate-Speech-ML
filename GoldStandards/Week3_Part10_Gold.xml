@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["What sort of idiot decided savages from north Africa, Syria, and other backward places are civilized and would fit into Europe nicely?"
+
+"I am an autistic rights activists which is different from a human rights activists since the autistic aren't human"
+
+"when the terrorists in a show are Muslim and you know it's because islamophobic cis white men made the show #s #m #h"
+
+"BITCH U IN A WHEELCHAIR HAHAHAHA HOW U GONNA STAND UP FOR SOMEONE WHEN U CANT WALK @IsaJennie"
+
+"Only a radical far right political ideology can rid White Europe of the mess we now face. It is time for White Racists to take a stand."
+
+"Muslims are willing to flood enemy nations, kill, and terrorize to win, while Whites are only willing to vote and whine about violence."
+
+"When women talk to each other, the devil sits in a corner, quietly listening and learning."
+
+"Open borders? What next free coach rides for Isis to anywhere in Europe?"
+
+"Although men are lifting the bans on gay marriage, God still has banned the practice, and, therefore, Christians are not to recognize it."
+
+"I love my race. I don't necessarily hate all others, but they've their own places of origin. Multiculturalism's #WhiteGenocide. #WR #WN"
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="41~53" text="north Africa" hate="yes" immigrant_status="Immigrant" nationality="North_Africa" slur="none" />
+<Group id="G1" spans="55~60" text="Syria" hate="yes" immigrant_status="Immigrant" nationality="Syria" slur="none" />
+<Group id="G2" spans="147~155" text="autistic" slur="none" disability="Mental" hate="yes" />
+<Group id="G3" spans="232~240" text="autistic" hate="yes" slur="none" disability="Mental" />
+<Group id="G4" spans="291~297" text="Muslim" hate="no" slur="none" religion="Muslim" />
+<Group id="G5" spans="337~350" text="cis white men" genderID="Cis" gender="Male" race="White" hate="no" slur="none" />
+<Group id="G6" spans="390~400" text="WHEELCHAIR" hate="yes" slur="none" disability="Physical" />
+<Group id="G7" spans="526~531" text="White" hate="yes" reverse="yes" slur="none" race="White" />
+<Group id="G8" spans="579~584" text="White" race="White" slur="none" reverse="yes" hate="yes" />
+<Group id="G9" spans="613~620" text="Muslims" hate="yes" slur="none" religion="Muslim" />
+<Group id="G10" spans="691~697" text="Whites" race="White" hate="no" slur="none" />
+<Group id="G11" spans="757~762" text="women" hate="yes" slur="none" />
+<Group id="G12" spans="1176~1181" text="White" hate="yes" reverse="yes" slur="none" race="White" />
+<Sentiment id="S0" spans="28~35" text="savages" type="judgement" />
+<Sentiment id="S2" spans="227~253" text=" the autistic aren&apos;t human" type="judgement" />
+<Sentiment id="S3" spans="377~459" text="BITCH U IN A WHEELCHAIR HAHAHAHA HOW U GONNA STAND UP FOR SOMEONE WHEN U CANT WALK" type="reaction" />
+<Sentiment id="S4" spans="564~609" text="It is time for White Racists to take a stand." type="incitement" />
+<Sentiment id="S5" spans="474~563" text="Only a radical far right political ideology can rid White Europe of the mess we now face." type="incitement" />
+<Sentiment id="S6" spans="783~841" text="the devil sits in a corner, quietly listening and learning" type="judgement" />
+<Sentiment id="S7" spans="1156~1189" text="Multiculturalism&apos;s #WhiteGenocide" type="warning" />
+<Stereotype id="St0" spans="613~683" text="Muslims are willing to flood enemy nations, kill, and terrorize to win" type="behavioral" />
+<Ref id="R0" fromID="S0" fromText="savages" toID="G0" toText="north Africa" />
+<Ref id="R1" fromID="S0" fromText="savages" toID="G1" toText="Syria" />
+<Ref id="R3" fromID="S2" fromText=" the autistic aren&apos;t human" toID="G3" toText="autistic" />
+<Ref id="R4" fromID="G3" fromText="autistic" toID="G2" toText="autistic" />
+<Ref id="R5" fromID="S3" fromText="BITCH U IN A WHEELCHAIR HAHAHAHA HOW U GONNA STAND UP FOR SOMEONE WHEN U CANT WALK" toID="G6" toText="WHEELCHAIR" />
+<Ref id="R6" fromID="S4" fromText="It is time for White Racists to take a stand." toID="G7" toText="White" />
+<Ref id="R7" fromID="S5" fromText="Only a radical far right political ideology can rid White Europe of the mess we now face." toID="G7" toText="White" />
+<Ref id="R8" fromID="G8" fromText="White" toID="G7" toText="White" />
+<Ref id="R9" fromID="St0" fromText="Muslims are willing to flood enemy nations, kill, and terrorize to win" toID="G9" toText="Muslims" />
+<Ref id="R10" fromID="S6" fromText="the devil sits in a corner, quietly listening and learning" toID="G11" toText="women" />
+</TAGS>
+</HateSpeech_2.0>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["I hate those people that act white and hate Mexicans, when their last name is the most beaner name ever"
+
+"Fat people are lazy, gluttonous slobs that have no self-respect or self-discipline and blame everyone and everything else for their fatness."
+
+"RT @cssueta: @BreakingNews why did we vote on banning same sex marriage if our votes are being thrown out"
+
+"RT @DrDavidDuke: VOTE NOW against the LYING,ANTI-WHITE RACIST MEDIA and the Oligarchs who open our borders & lead America to destruction!"
+
+"I hate chicks with dicks"
+
+"I'm sick of all these jews/muslims/gays/blacks/feminists/red-flag socialists slagging off our Military.\n\nRETWEET IF YOU AGREE\n#WhiteGenocide"
+
+"Fat people are losers."
+
+"Honestly i hate men so much all I want is to be surrounded by 20 dogs"
+
+"RT @spiritof1973: @RyanT_Anderson Yep, kids need a mom and a dad.  Gay parenting amounts to child abuse."
+
+"RT @migrationwatch: Britain risks migration timebomb as population set to swell by 500,000 a year "
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="30~35" text="white" hate="no" slur="none" race="White" />
+<Group id="G1" spans="45~53" text="Mexicans" hate="no" slur="none" nationality="Mexico" />
+<Group id="G2" spans="88~94" text="beaner" hate="no" slur="reclamation" nationality="Mexico" />
+<Group id="G3" spans="108~118" text="Fat people" hate="yes" slur="none" body_image="Fat" />
+<Group id="G4" spans="509~526" text="chicks with dicks" hate="yes" slur="hateful" gender="Female" genderID="Trans" />
+<Group id="G5" spans="410~415" text="WHITE" hate="yes" reverse="yes" slur="none" race="White" />
+<Group id="G6" spans="552~556" text="jews" hate="yes" slur="none" religion="Jewish" />
+<Group id="G7" spans="557~564" text="muslims" hate="yes" slur="none" religion="Muslim" />
+<Group id="G8" spans="565~569" text="gays" hate="yes" slur="none" orientation="Gay" />
+<Group id="G9" spans="570~576" text="blacks" hate="yes" slur="none" race="Black" />
+<Group id="G10" spans="677~687" text="Fat people" hate="yes" slur="none" body_image="Fat" />
+<Group id="G11" spans="719~722" text="men" hate="no" slur="none" gender="Male" />
+<Group id="G12" spans="843~846" text="Gay" hate="yes" slur="none" orientation="Gay" />
+<Sentiment id="S0" spans="151~190" text="have no self-respect or self-discipline" type="judgement" />
+<Sentiment id="S1" spans="195~247" text="blame everyone and everything else for their fatness" type="judgement" />
+<Sentiment id="S2" spans="378~498" text="VOTE NOW against the LYING,ANTI-WHITE RACIST MEDIA and the Oligarchs who open our borders &amp; lead America to destruction!" type="incitement" />
+<Sentiment id="S3" spans="502~526" text="I hate chicks with dicks" type="reaction" />
+<Sentiment id="S4" spans="660~673" text="WhiteGenocide" type="warning" />
+<Sentiment id="S5" spans="677~698" text="Fat people are losers" type="judgement" />
+<Sentiment id="S6" spans="712~730" text="i hate men so much" type="reaction" />
+<Sentiment id="S7" spans="843~879" text="Gay parenting amounts to child abuse" type="judgement" />
+<Stereotype id="St2" spans="123~190" text="lazy, gluttonous slobs that have no self-respect or self-discipline" type="behavioral" />
+<Stereotype id="St3" spans="607~632" text="slagging off our Military" type="behavioral" />
+<Stereotype id="St4" spans="195~247" text="blame everyone and everything else for their fatness" type="behavioral" />
+<Ref id="R0" fromID="St2" fromText="lazy, gluttonous slobs that have no self-respect or self-discipline" toID="G3" toText="Fat people" />
+<Ref id="R1" fromID="S0" fromText="have no self-respect or self-discipline" toID="G3" toText="Fat people" />
+<Ref id="R2" fromID="St4" fromText="blame everyone and everything else for their fatness" toID="G3" toText="Fat people" />
+<Ref id="R3" fromID="S2" fromText="VOTE NOW against the LYING,ANTI-WHITE RACIST MEDIA and the Oligarchs who open our borders &amp; lead America to destruction!" toID="G5" toText="WHITE" />
+<Ref id="R4" fromID="S4" fromText="WhiteGenocide" toID="G6" toText="jews" />
+<Ref id="R5" fromID="S4" fromText="WhiteGenocide" toID="G7" toText="muslims" />
+<Ref id="R6" fromID="S4" fromText="WhiteGenocide" toID="G8" toText="gays" />
+<Ref id="R7" fromID="S4" fromText="WhiteGenocide" toID="G9" toText="blacks" />
+<Ref id="R8" fromID="St3" fromText="slagging off our Military" toID="G6" toText="jews" />
+<Ref id="R9" fromID="St3" fromText="slagging off our Military" toID="G7" toText="muslims" />
+<Ref id="R10" fromID="St3" fromText="slagging off our Military" toID="G8" toText="gays" />
+<Ref id="R11" fromID="St3" fromText="slagging off our Military" toID="G9" toText="blacks" />
+<Ref id="R12" fromID="S5" fromText="Fat people are losers" toID="G10" toText="Fat people" />
+<Ref id="R13" fromID="S6" fromText="i hate men so much" toID="G11" toText="men" />
+<Ref id="R14" fromID="S7" fromText="Gay parenting amounts to child abuse" toID="G12" toText="Gay" />
+<Ref id="R15" fromID="S3" fromText="I hate chicks with dicks" toID="G4" toText="chicks with dicks" />
+</TAGS>
+</HateSpeech_2.0>

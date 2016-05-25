@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["The source of #blackpathology is that blacks never fought for or earned their liberation. It was GIVEN to them. Naturally, they resent this."
+
+
+
+"Soft communists (SJWs) and the dindu-welfare-industrial-entertainment complex have destroyed Western civilization in less than a generation."
+
+
+
+"A "Somali entrepreneur" is the guy who gets a subsidized minority loan to run the corner store where all his friends spend their EBT money."
+
+
+
+"I asked my trainer which machine at the gym I should use to impress beautiful women... he pointed outside and said \"The ATM machine\""
+
+
+
+"@NotHipsterToast trannies are disgusting abominations"
+
+
+
+"\"Multiculturalism has always been animated by the left-wing resentment of, and hostility towards, the European inheritance\""
+
+
+
+"Islam: A religion of violence that must be reconciled to peace. Christianity: A religion of peace that must be reconciled to violence."
+
+
+
+"Citizenship policy: if you're a 3rd generation welfare recipient or 2nd generation felon, you're out. Also, if you're on welfare, no vote."
+
+
+
+"Capitalism only works for the super elite, super greedy multinational treasoners! You all are just expendable sheep! #ResistCapitalism #Jews"
+
+
+
+"The descendants of the first Western Europeans to halt the spread of Islam now mock the gravesites of their ancestors. #Prayers4Paris"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="16~21" text="black" hate="yes" slur="none" race="Black" />
+<Group id="G1" spans="39~45" text="blacks" hate="yes" slur="none" race="Black" />
+<Group id="G2" spans="178~183" text="dindu" hate="yes" slur="hateful" race="Black" />
+<Group id="G3" spans="296~302" text="Somali" hate="yes" slur="none" nationality="Somalia" />
+<Group id="G4" spans="516~521" text="women" hate="yes" slur="none" gender="Female" />
+<Group id="G5" spans="595~603" text="trannies" hate="yes" slur="hateful" genderID="Trans" />
+<Group id="G6" spans="768~773" text="Islam" hate="yes" slur="none" religion="Muslim" />
+<Group id="G7" spans="940~996" text="3rd generation welfare recipient or 2nd generation felon" hate="yes" slur="hateful" class="Poor" />
+<Group id="G8" spans="1188~1192" text="Jews" hate="yes" slur="none" religion="Jewish" />
+<Group id="G9" spans="1082~1093" text="super elite" hate="no" slur="none" class="Rich" />
+<Group id="G10" spans="1267~1272" text="Islam" hate="no" slur="none" religion="Muslim" />
+<Group id="G11" spans="1235~1244" text="Europeans" hate="no" slur="none" race="White" />
+<Group id="G12" spans="832~844" text="Christianity" hate="no" slur="none" religion="Christian" />
+<Group id="G13" spans="740~748" text="European" hate="no" slur="none" race="White" />
+<Sentiment id="S0" spans="21~30" text="pathology" type="judgement" />
+<Sentiment id="S1" spans="46~89" text="never fought for or earned their liberation" type="judgement" />
+<Sentiment id="S2" spans="147~286" text="Soft communists (SJWs) and the dindu-welfare-industrial-entertainment complex have destroyed Western civilization in less than a generation" type="judgement" />
+<Sentiment id="S3" spans="595~631" text="trannies are disgusting abominations" type="judgement" />
+<Sentiment id="S4" spans="908~1045" text="Citizenship policy: if you&apos;re a 3rd generation welfare recipient or 2nd generation felon, you&apos;re out. Also, if you&apos;re on welfare, no vote" type="incitement" />
+<Stereotype id="St0" spans="332~363" text="gets a subsidized minority loan" type="behavioral" />
+<Stereotype id="St1" spans="410~431" text="spend their EBT money" type="behavioral" />
+<Stereotype id="St2" spans="364~387" text="to run the corner store" type="behavioral" />
+<Stereotype id="St3" spans="438~572" text="I asked my trainer which machine at the gym I should use to impress beautiful women... he pointed outside and said \&quot;The ATM machine\&quot;" type="behavioral" />
+<Stereotype id="St4" spans="767~830" text="&quot;Islam: A religion of violence that must be reconciled to peace" type="cultural" />
+<Stereotype id="St5" spans="1082~1132" text="super elite, super greedy multinational treasoners" type="behavioral" />
+<Ref id="R0" fromID="S0" fromText="pathology" toID="G0" toText="black" />
+<Ref id="R1" fromID="G1" fromText="blacks" toID="G0" toText="black" />
+<Ref id="R2" fromID="S1" fromText="never fought for or earned their liberation" toID="G0" toText="black" />
+<Ref id="R3" fromID="S2" fromText="Soft communists (SJWs) and the dindu-welfare-industrial-entertainment complex have destroyed Western civilization in less than a generation" toID="G2" toText="dindu" />
+<Ref id="R4" fromID="St0" fromText="gets a subsidized minority loan" toID="G3" toText="Somali" />
+<Ref id="R5" fromID="St1" fromText="spend their EBT money" toID="G3" toText="Somali" />
+<Ref id="R6" fromID="St2" fromText="to run the corner store" toID="G3" toText="Somali" />
+<Ref id="R7" fromID="St3" fromText="I asked my trainer which machine at the gym I should use to impress beautiful women... he pointed outside and said \&quot;The ATM machine\&quot;" toID="G4" toText="women" />
+<Ref id="R8" fromID="S3" fromText="trannies are disgusting abominations" toID="G5" toText="trannies" />
+<Ref id="R9" fromID="St4" fromText="&quot;Islam: A religion of violence that must be reconciled to peace" toID="G6" toText="Islam" />
+<Ref id="R10" fromID="S4" fromText="Citizenship policy: if you&apos;re a 3rd generation welfare recipient or 2nd generation felon, you&apos;re out. Also, if you&apos;re on welfare, no vote" toID="G7" toText="3rd generation welfare recipient or 2nd generation felon" />
+<Ref id="R11" fromID="St5" fromText="super elite, super greedy multinational treasoners" toID="G8" toText="Jews" />
+</TAGS>
+</HateSpeech_2.0>

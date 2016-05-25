@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["obama wants 100,000+ of same muslims that bombed brussels & paris, same muslim "refugees" raping & killing Europeans"
+
+"#SignsYoureABernieSupporter If you believe your degeneracy would be excepted by socialism/communism. #FeelTheBern "
+
+"Why haven’t any women landed on the moon? Because they’re still trying to park"
+
+""Gay Christian" is not in God's vocabulary nor is the concept found in His word, the Bible."
+
+"The problem with WN and Pro-White groups is that too few are also Pro-Racist. Racism promotes a positive racial identity and pride."
+
+"I would never want a gay son. Smh I don't care if it sounds like I'm judging."
+
+"#SignsYoureABernieSupporter you are a fat, lazy, good-for-nothing degenerate with an amazingly tiny dick."
+
+"Racism: A positive feeling of racial identity and racial pride."
+
+"Hold an MD responsible for abortion but the let the woman off for killing her offspring -- an intellectually dishonest position. #WhyWeLose"
+
+"I'd. Break down if my son came out the Closet saying he was gay cuz I'd feel. Like I failed as a father"
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="30~37" text="muslims" religion="Muslim" hate="yes" slur="none" />
+<Group id="G1" spans="73~90" text="muslim &quot;refugees&quot;" hate="yes" slur="none" immigrant_status="Refugee" religion="Muslim" />
+<Group id="G2" spans="255~260" text="women" hate="yes" slur="none" gender="Female" />
+<Group id="G3" spans="322~335" text="Gay Christian" hate="no" slur="none" religion="Christian" orientation="Gay" />
+<Group id="G4" spans="572~575" text="gay" orientation="Gay" hate="yes" slur="none" />
+<Group id="G5" spans="1011~1014" text="gay" orientation="Gay" hate="yes" slur="none" />
+<Sentiment id="S0" spans="43~66" text="bombed brussels &amp; paris" type="judgement" />
+<Sentiment id="S1" spans="91~117" text="raping &amp; killing Europeans" type="judgement" />
+<Sentiment id="S2" spans="551~579" text="I would never want a gay son" type="reaction" />
+<Sentiment id="S3" spans="951~1054" text="I&apos;d. Break down if my son came out the Closet saying he was gay cuz I&apos;d feel. Like I failed as a father" type="reaction" />
+<Stereotype id="St0" spans="281~317" text="Because they’re still trying to park" type="mental" />
+<Ref id="R0" toID="G0" toText="muslims" fromID="G1" fromText="muslim &quot;refugees&quot;" />
+<Ref id="R1" fromID="S1" fromText="raping &amp; killing Europeans" toID="G1" toText="muslim &quot;refugees&quot;" />
+<Ref id="R2" fromID="S0" fromText="bombed brussels &amp; paris" toID="G0" toText="muslims" />
+<Ref id="R3" fromID="St0" fromText="Because they’re still trying to park" toID="G2" toText="women" />
+<Ref id="R4" fromID="S2" fromText="I would never want a gay son" toID="G4" toText="gay" />
+<Ref id="R5" fromID="S3" fromText="I&apos;d. Break down if my son came out the Closet saying he was gay cuz I&apos;d feel. Like I failed as a father" toID="G5" toText="gay" />
+</TAGS>
+</HateSpeech_2.0>

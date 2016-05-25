@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["Mercedes have launched a new version of the Smart Car. It won't start if a woman is in the driver's seat."
+
+"I have nothing against gay people but if if I'm out in public and see two guys holding hands or some shit I wanna throw up. Natural reaction"
+
+"TAKE A HIKE, KIKE"
+
+"does Jew nut taste like pennies?"
+
+"sometimes I forget people are offended by words like \"n*gger\""
+
+"If i had a son and found out he was gay i would make him fuck prostitute untill he likes pussy"
+
+"Far right politics is enjoying a resurgence in Europe but falls short. Only an ultra right National Socialist ideology can save our race."
+
+"NIGGERS"
+
+"All you anorexic bitches can kiss my fat ass."
+
+"notice every made up gender is some weird ass combination of male and female? why is that"]]></TEXT>
+<TAGS>
+<Group id="G1" spans="76~81" text="woman" hate="yes" slur="none" gender="Female" />
+<Group id="G2" spans="133~143" text="gay people" hate="yes" orientation="Gay" slur="none" />
+<Group id="G3" spans="267~271" text="KIKE" hate="yes" religion="Jewish" slur="hateful" />
+<Group id="G5" spans="280~283" text="Jew" slur="none" religion="Jewish" hate="yes" />
+<Group id="G6" spans="366~372" text="n*gger" hate="yes" race="Black" slur="hateful" />
+<Group id="G7" spans="414~417" text="gay" hate="yes" slur="none" orientation="Gay" />
+<Group id="G8" spans="617~624" text="NIGGERS" hate="yes" race="Black" slur="hateful" />
+<Group id="G9" spans="636~652" text="anorexic bitches" hate="yes" body_image="Thin" slur="hateful" />
+<Group id="G10" spans="690~704" text="made up gender" hate="yes" genderID="other" slur="none" />
+<Sentiment id="S0" spans="1~106" text="Mercedes have launched a new version of the Smart Car. It won&apos;t start if a woman is in the driver&apos;s seat." type="judgement" />
+<Sentiment id="S1" spans="216~232" text="I wanna throw up" type="reaction" />
+<Sentiment id="S2" spans="254~271" text="TAKE A HIKE, KIKE" type="other" />
+<Sentiment id="S3" spans="378~472" text="If i had a son and found out he was gay i would make him fuck prostitute untill he likes pussy" type="reaction" />
+<Sentiment id="S4" spans="628~672" text="All you anorexic bitches can kiss my fat ass" type="other" />
+<Sentiment id="S5" spans="677~754" text="notice every made up gender is some weird ass combination of male and female?" type="judgement" />
+<Stereotype id="St0" spans="275~307" text="does Jew nut taste like pennies?" type="behavioral" />
+<Ref id="R0" fromID="S0" fromText="Mercedes have launched a new version of the Smart Car. It won&apos;t start if a woman is in the driver&apos;s seat." toID="G1" toText="woman" />
+<Ref id="R1" fromID="S1" fromText="I wanna throw up" toID="G2" toText="gay people" />
+<Ref id="R2" fromID="S2" fromText="TAKE A HIKE, KIKE" toID="G3" toText="KIKE" />
+<Ref id="R3" fromID="St0" fromText="does Jew nut taste like pennies?" toID="G5" toText="Jew" />
+<Ref id="R4" fromID="S3" fromText="If i had a son and found out he was gay i would make him fuck prostitute untill he likes pussy" toID="G7" toText="gay" />
+<Ref id="R5" fromID="S4" fromText="All you anorexic bitches can kiss my fat ass" toID="G9" toText="anorexic bitches" />
+<Ref id="R6" fromID="S5" fromText="notice every made up gender is some weird ass combination of male and female?" toID="G10" toText="made up gender" />
+</TAGS>
+</HateSpeech_2.0>

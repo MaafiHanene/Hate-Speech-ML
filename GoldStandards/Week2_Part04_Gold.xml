@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["The only hate about illegal invading Mexicans is their hate for our laws and their hate for our love of our OWN country. We must export them"
+
+"There should be a 5th school in Keller for only Homosexuals, Feminists, and Trannies"
+
+"That's the point!! We need young people, not old selfish farts. "
+
+"If ur gonna hate White America, hate it for something it actually did. Spaniards wiped out most Indians 200 years before America was born."
+
+"Feminist:\n\nSomeone who believes the radical notion that women are people."
+
+"#Multiculturalism is jewish racial supremacy by fraudulent debt slavery to private Central Banks & demographic #WhiteGenocide."
+
+"RT @_FucK_aH_fRiEnD: The world coming too an end because the young ppl getting shot and becoming gay"
+
+"RT @europafreunde: Tear gas fired as Islamic invaders smash #Greece-#Macedonia border with battering ram - Need to use live rounds"
+
+"RT @CaitMcNickle: @YesYoureRacist & @homophobes make me angry/sad. Everyone read them. They show how absurd & ignorant hate is."
+
+"Girls over 4'3...  hit the gym fatass"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="21~46" text="illegal invading Mexicans" hate="yes" slur="none" nationality="Mexico" immigrant_status="Immigrant" />
+<Group id="G1" spans="193~204" text="Homosexuals" hate="yes" slur="none" orientation="Gay" />
+<Group id="G2" spans="221~229" text="Trannies" hate="yes" slur="hateful" genderID="Trans" />
+<Group id="G3" spans="278~295" text="old selfish farts" slur="none" age="Old" hate="no" />
+<Group id="G4" spans="260~272" text="young people" age="Young" hate="no" slur="none" />
+<Group id="G5" spans="318~323" text="White" hate="no" slur="none" race="White" />
+<Group id="G6" spans="372~381" text="Spaniards" hate="no" slur="none" nationality="Spain" />
+<Group id="G7" spans="397~404" text="Indians" hate="no" slur="none" race="Native_American" />
+<Group id="G8" spans="501~506" text="women" gender="Female" hate="no" slur="none" />
+<Group id="G9" spans="543~549" text="jewish" hate="yes" slur="none" religion="Jewish" />
+<Group id="G10" spans="713~722" text="young ppl" age="Young" hate="no" slur="none" />
+<Group id="G11" spans="793~809" text="Islamic invaders" hate="yes" slur="none" religion="Muslim" immigrant_status="Refugee" />
+<Group id="G12" spans="1021~1035" text="Girls over 4&apos;3" gender="Female" hate="no" slur="sarcasm" body_image="other" />
+<Group id="G13" spans="1052~1058" text="fatass" hate="no" body_image="Fat" slur="sarcasm" />
+<Group id="G14" spans="749~752" text="gay" hate="yes" slur="none" orientation="Gay" age="Young" />
+<Sentiment id="S0" spans="78~120" text="their hate for our love of our OWN country" type="judgement" />
+<Sentiment id="S1" spans="50~73" text="their hate for our laws" type="judgement" />
+<Sentiment id="S2" spans="122~141" text="We must export them" type="incitement" />
+<Sentiment id="S3" spans="145~183" text="There should be a 5th school in Keller" type="incitement" />
+<Sentiment id="S4" spans="333~370" text="hate it for something it actually did" type="other" other="exculpation" />
+<Sentiment id="S5" spans="523~632" text="Multiculturalism is jewish racial supremacy by fraudulent debt slavery to private Central Banks &amp; demographic" type="judgement" />
+<Sentiment id="S6" spans="634~647" text="WhiteGenocide" type="warning" />
+<Sentiment id="S7" spans="673~700" text="The world coming too an end" type="warning" />
+<Sentiment id="S8" spans="740~752" text="becoming gay" type="warning" />
+<Sentiment id="S9" spans="863~886" text="Need to use live rounds" type="incitement" />
+<Sentiment id="S10" spans="1040~1058" text="hit the gym fatass" type="judgement" nonhate="sarcasm" />
+<Stereotype id="St0" spans="282~289" text="selfish" type="behavioral" />
+<Ref id="R0" fromID="S1" fromText="their hate for our laws" toID="G0" toText="illegal invading Mexicans" />
+<Ref id="R1" fromID="S0" fromText="their hate for our love of our OWN country" toID="G0" toText="illegal invading Mexicans" />
+<Ref id="R2" fromID="S2" fromText="We must export them" toID="G0" toText="illegal invading Mexicans" />
+<Ref id="R3" fromID="S3" fromText="There should be a 5th school in Keller" toID="G1" toText="Homosexuals" />
+<Ref id="R4" fromID="S3" fromText="There should be a 5th school in Keller" toID="G2" toText="Trannies" />
+<Ref id="R5" fromID="St0" fromText="selfish" toID="G3" toText="old selfish farts" />
+<Ref id="R6" fromID="S4" fromText="hate it for something it actually did" toID="G5" toText="White" />
+<Ref id="R7" fromID="S5" fromText="Multiculturalism is jewish racial supremacy by fraudulent debt slavery to private Central Banks &amp; demographic" toID="G9" toText="jewish" />
+<Ref id="R9" fromID="S7" fromText="The world coming too an end" toID="G14" toText="gay" />
+<Ref id="R10" fromID="S8" fromText="becoming gay" toID="G10" toText="young ppl" />
+<Ref id="R11" fromID="S9" fromText="Need to use live rounds" toID="G11" toText="Islamic invaders" />
+<Ref id="R12" fromID="S10" fromText="hit the gym fatass" toID="G12" toText="Girls over 4&apos;3" />
+</TAGS>
+</HateSpeech_2.0>

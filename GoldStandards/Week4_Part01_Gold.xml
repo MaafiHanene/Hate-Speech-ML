@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["People of the white race stand up stop being scared of this oppressive government Revolt against this democratic tyranny and restore it back"
+
+
+
+"What's the difference between a woman and a computer? You can actually punch information into a computer"
+
+
+
+"\"We Must Secure The Existence Of OUR People And A Future For WHITE Children.\" #14Words."
+
+
+
+"I hate gays."
+
+
+
+"Racial blood must be perserved in its purity at all costs.\""
+
+
+
+"Aryan Life Lessons 1.White with White 2.Lead by example....walk the walk 3.Be vigilant...the enemy is crafty 4.Be brave 5.Be Vocal"
+
+
+
+"Aryan Life Lessons 6.Unite....safety in numbers 7.Get Educated 8.Carry The Message 9.Draw The Enemy on the facts 10.White is Right"
+
+
+
+"Isn't it adorable when rich people act like the poor are fucking them somehow? Adorable. The poor have been the sidepiece of the 1% forever."
+
+
+
+"Why do all these 'people of colour' keep hanging out in Aryan/14 88 areas online then adding us to lists bitching? It's hilarious!"
+
+
+
+"Mrs Justice Paufley High Court Judge said an illegal immigrant who beat his son was not abusing the child as in their native country it's ok"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="1~25" text="People of the white race" race="White" hate="no" slur="none" />
+<Group id="G1" spans="179~184" text="woman" hate="yes" slur="none" gender="Female" />
+<Group id="G2" spans="291~301" text="OUR People" slur="none" hate="no" race="White" />
+<Group id="G3" spans="319~324" text="WHITE" slur="none" hate="no" race="White" />
+<Group id="G4" spans="359~363" text="gays" slur="none" hate="yes" orientation="Gay" />
+<Group id="G5" spans="436~441" text="Aryan" hate="yes" slur="none" reverse="yes" race="White" religion="Christian" />
+<Group id="G6" spans="457~462" text="White" race="White" slur="none" hate="no" />
+<Group id="G7" spans="468~473" text="White" slur="none" hate="no" race="White" />
+<Group id="G8" spans="525~534" text="the enemy" race="White" slur="none" hate="yes" reverse="yes" />
+<Group id="G9" spans="572~577" text="Aryan" hate="yes" reverse="yes" slur="none" race="White" religion="Christian" />
+<Group id="G10" spans="688~693" text="White" slur="none" hate="no" race="White" />
+<Group id="G11" spans="731~742" text="rich people" hate="no" class="Rich" slur="none" />
+<Group id="G12" spans="756~760" text="poor" hate="no" slur="none" class="Poor" />
+<Group id="G13" spans="801~805" text="poor" hate="no" slur="none" class="Poor" />
+<Group id="G14" spans="872~888" text="people of colour" slur="none" race="White" reverse="yes" hate="yes" />
+<Group id="G15" spans="1035~1052" text="illegal immigrant" hate="no" immigrant_status="Immigrant" slur="none" />
+<Sentiment id="S1" spans="352~363" text="I hate gays" type="judgement" />
+<Sentiment id="S2" spans="511~544" text="Be vigilant...the enemy is crafty" type="warning" />
+<Stereotype id="St0" spans="853~967" text="&quot;Why do all these &apos;people of colour&apos; keep hanging out in Aryan/14 88 areas online then adding us to lists bitching" type="behavioral" />
+<Stereotype id="St1" spans="147~251" text="What&apos;s the difference between a woman and a computer? You can actually punch information into a computer" type="mental" />
+<Ref id="R0" toID="G1" toText="woman" fromID="St1" fromText="What&apos;s the difference between a woman and a computer? You can actually punch information into a computer" />
+<Ref id="R1" fromID="S1" fromText="I hate gays" toID="G4" toText="gays" />
+<Ref id="R2" fromID="G6" fromText="White" toID="G5" toText="Aryan" />
+<Ref id="R3" toID="G5" toText="Aryan" fromID="G7" fromText="White" />
+<Ref id="R4" fromID="St0" fromText="&quot;Why do all these &apos;people of colour&apos; keep hanging out in Aryan/14 88 areas online then adding us to lists bitching" toID="G14" toText="people of colour" />
+</TAGS>
+</HateSpeech_2.0>

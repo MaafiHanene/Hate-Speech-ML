@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["Y'all think Indians r smelly and hate us but y'all wear bindis, marudhani, eat curry and watch Bollywood/ kollywood movies smh people "
+
+"ARREST FAT PEOPLE:\n\nBeing fat is essentially suicide by overeating, and last time I checked, suicide is illegal\n\nSee you in court, fatties"
+
+"RT @Leo_Babenberg: Life was great before multiculturalism.\n\n#BringBackThePatriarchy "
+
+"No dude, we just hate mexicans. They aren't cool dude bro "
+
+"Homosexuality is a disease!"
+
+"Muslim invaders on the streets of a European city say that they hate Europeans and want to kill them"
+
+"Women need to stop trying to be men. Double standards exist because men and women ARE NOT THE SAME. Sooner you get used to that, the better"
+
+"RT @RainbowCh1ldren: @realDonaldTrump #WhitePeople have been \"disavowed\" 4 decades mass immigration+forced assimilation = #WhiteGenocide "
+
+"@yiorgoskatsikan @BreitbartLondon \nYou want to see Britain - parts of it are very Third World."
+
+"I hate it when you talking to a girl and her giant ass shemale friend come in talking bout \"Wife you cheating on me?\""]]></TEXT>
+<TAGS>
+<Group id="G0" spans="13~20" text="Indians" hate="no" slur="none" nationality="India" />
+<Group id="G1" spans="146~156" text="FAT PEOPLE" hate="yes" slur="none" body_image="Fat" />
+<Group id="G2" spans="274~281" text="fatties" hate="yes" slur="hateful" body_image="Fat" />
+<Group id="G3" spans="397~405" text="mexicans" hate="yes" slur="none" nationality="Mexico" />
+<Group id="G4" spans="437~450" text="Homosexuality" hate="yes" slur="none" orientation="Gay" />
+<Group id="G5" spans="468~483" text="Muslim invaders" hate="yes" slur="none" immigrant_status="Immigrant" religion="Muslim" />
+<Group id="G6" spans="537~546" text="Europeans" slur="none" nationality="Europe" hate="no" />
+<Group id="G7" spans="572~577" text="Women" slur="none" gender="Female" hate="yes" />
+<Group id="G8" spans="604~607" text="men" hate="no" slur="none" gender="Male" />
+<Group id="G9" spans="754~765" text="WhitePeople" hate="yes" reverse="yes" slur="none" race="White" />
+<Group id="G10" spans="1012~1019" text="shemale" hate="yes" slur="hateful" genderID="Trans" />
+<Group id="G11" spans="-1~-1" text="" hate="yes" slur="none" race="White" gender="Male" reverse="yes" />
+<Group id="G12" spans="-1~-1" text="" hate="yes" slur="none" race="White" gender="Male" reverse="yes" />
+<Group id="G13" spans="-1~-1" text="" hate="yes" slur="none" race="White" gender="Male" reverse="yes" />
+<Sentiment id="S0" spans="139~156" text="ARREST FAT PEOPLE" type="incitement" />
+<Sentiment id="S1" spans="161~207" text="Being fat is essentially suicide by overeating" type="judgement" />
+<Sentiment id="S2" spans="256~281" text="See you in court, fatties" type="incitement" />
+<Sentiment id="S3" spans="304~342" text="Life was great before multiculturalism" type="judgement" />
+<Sentiment id="S4" spans="348~370" text="BringBackThePatriarchy" type="incitement" />
+<Sentiment id="S5" spans="384~405" text="we just hate mexicans" type="reaction" />
+<Sentiment id="S6" spans="407~423" text="They aren&apos;t cool" type="judgement" />
+<Sentiment id="S7" spans="437~463" text="Homosexuality is a disease" type="judgement" />
+<Sentiment id="S9" spans="527~568" text="they hate Europeans and want to kill them" type="warning" />
+<Sentiment id="S10" spans="840~853" text="WhiteGenocide" type="warning" />
+<Sentiment id="S11" spans="790~836" text="4 decades mass immigration+forced assimilation" type="reaction" />
+<Stereotype id="St1" spans="13~29" text="Indians r smelly" type="physical" />
+<Ref id="R0" fromID="S1" fromText="Being fat is essentially suicide by overeating" toID="G1" toText="FAT PEOPLE" />
+<Ref id="R1" fromID="S5" fromText="we just hate mexicans" toID="G3" toText="mexicans" />
+<Ref id="R2" fromID="S6" fromText="They aren&apos;t cool" toID="G3" toText="mexicans" />
+<Ref id="R3" fromID="S7" fromText="Homosexuality is a disease" toID="G4" toText="Homosexuality" />
+<Ref id="R7" fromID="S11" fromText="4 decades mass immigration+forced assimilation" toID="G9" toText="WhitePeople" />
+<Ref id="R8" fromID="S9" fromText="they hate Europeans and want to kill them" toID="G5" toText="Muslim invaders" />
+<Ref id="R4" fromID="St1" fromText="Indians r smelly" toID="G0" toText="Indians" />
+<Ref id="R5" fromID="S0" fromText="ARREST FAT PEOPLE" toID="G1" toText="FAT PEOPLE" />
+<Ref id="R6" fromID="S2" fromText="See you in court, fatties" toID="G2" toText="fatties" />
+<Ref id="R9" fromID="S3" fromText="Life was great before multiculturalism" toID="G12" toText="" />
+<Ref id="R10" fromID="S4" fromText="BringBackThePatriarchy" toID="G13" toText="" />
+<Ref id="R11" fromID="S9" fromText="they hate Europeans and want to kill them" toID="G5" toText="Muslim invaders" />
+<Ref id="R12" fromID="S11" fromText="4 decades mass immigration+forced assimilation" toID="G9" toText="WhitePeople" />
+</TAGS>
+</HateSpeech_2.0>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["Anyone who doesn't want #OpenBordersForIsrael is a Nazi that wants to kill 6 million Muslims."
+
+
+
+"#WeDoCare that Islamic sex grooming gangs abused thousands of young English girls and got away with it because of political correctness."
+
+
+
+"Is the black reaction to everything just to start twerking? #TrumpIsDisqualifiedParty"
+
+
+
+"Terrorist control, not gun control."
+
+
+
+"#Mizzou \"There must be black ppl to oversee white ppl doing anything anywhere. Also, give us more $ and a disproportionate say in things.\""
+
+
+
+"\"A JIHADIST JUST ATTACKED MY COUNTRY. TAKE AWAY MY CONSTITUTIONAL RIGHT! RIGHT NOW! RIGHT THIS FUCKING SECOND!!!\" - Democrats"
+
+
+
+"We need cultural Muslim backlash. Sneer at women in hijabs, do not open doors for them or help them with their prams. Demand non-halal meat."
+
+
+
+"#hatefact Blacks are underrepresented in combat roles b/c to them the military is welfare + a gym membership."
+
+
+
+"So many stupid people think all Muslims are terrorists. Using that logic(?), all Catholics are paedos. #Bigots"
+
+
+
+"University of Chicago classes canceled due to black thug threatening to kill 16 white people - media buries his his racist anti-white motive"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="40~46" text="Israel" slur="none" religion="Jewish" nationality="Israel" hate="no" />
+<Group id="G1" spans="115~122" text="Islamic" hate="no" slur="none" religion="Muslim" />
+<Group id="G2" spans="249~254" text="black" hate="yes" slur="none" race="Black" />
+<Group id="G3" spans="398~403" text="black" hate="no" slur="none" race="Black" />
+<Group id="G4" spans="419~424" text="white" hate="no" slur="none" race="White" />
+<Group id="G5" spans="670~676" text="Muslim" hate="yes" slur="none" religion="Muslim" />
+<Group id="G6" spans="696~711" text="women in hijabs" religion="Muslim" gender="Female" hate="yes" slur="none" />
+<Group id="G7" spans="809~815" text="Blacks" hate="yes" slur="none" race="Black" />
+<Group id="G8" spans="946~953" text="Muslims" hate="no" slur="none" religion="Muslim" />
+<Group id="G9" spans="995~1004" text="Catholics" hate="yes" slur="none" religion="Muslim" />
+<Group id="G10" spans="1076~1081" text="black" hate="yes" slur="none" race="Black" />
+<Group id="G11" spans="162~181" text="young English girls" hate="no" slur="none" gender="Female" age="Young" nationality="English" />
+<Group id="G12" spans="1110~1115" text="white" hate="no" slur="none" race="Black" />
+<Sentiment id="S0" spans="653~685" text="We need cultural Muslim backlash" type="incitement" />
+<Sentiment id="S1" spans="713~770" text="do not open doors for them or help them with their prams." type="incitement" />
+<Sentiment id="S2" spans="687~712" text="Sneer at women in hijabs," type="incitement" />
+<Sentiment id="S3" spans="771~792" text="Demand non-halal meat" type="incitement" />
+<Stereotype id="St0" spans="242~300" text="Is the black reaction to everything just to start twerking" type="behavioral" />
+<Stereotype id="St1" spans="809~907" text="Blacks are underrepresented in combat roles b/c to them the military is welfare + a gym membership" type="behavioral" />
+<Stereotype id="St2" spans="942~968" text="all Muslims are terrorists" nonhate="outside_ref" type="behavioral" />
+<Stereotype id="St3" spans="991~1016" text="all Catholics are paedos." nonhate="sarcasm" type="mental" />
+<Stereotype id="St4" spans="1082~1086" text="thug" type="behavioral" />
+<Ref id="R0" fromID="St0" fromText="Is the black reaction to everything just to start twerking" toID="G2" toText="black" />
+<Ref id="R1" fromID="S0" fromText="We need cultural Muslim backlash" toID="G5" toText="Muslim" />
+<Ref id="R2" fromID="S1" fromText="do not open doors for them or help them with their prams." toID="G6" toText="women in hijabs" />
+<Ref id="R3" fromID="S2" fromText="Sneer at women in hijabs," toID="G6" toText="women in hijabs" />
+<Ref id="R4" fromID="S3" fromText="Demand non-halal meat" toID="G5" toText="Muslim" />
+<Ref id="R5" fromID="St1" fromText="Blacks are underrepresented in combat roles b/c to them the military is welfare + a gym membership" toID="G7" toText="Blacks" />
+<Ref id="R6" fromID="St2" fromText="all Muslims are terrorists" toID="G8" toText="Muslims" />
+<Ref id="R7" fromID="St3" fromText="all Catholics are paedos." toID="G9" toText="Catholics" />
+<Ref id="R8" fromID="St4" fromText="thug" toID="G10" toText="black" />
+</TAGS>
+</HateSpeech_2.0>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["RT @europafreunde: Sharia in UK: Wife-beating, incest and child marriages are common in Islam, claims book https://t.co/KvK7DB60mv"
+
+"Family Values rally attacked by left-wing perverts in Stuttgart #WR #WeAreAtWar #WhiteGenocide #EuropeAwake #prolife"
+
+"RT @End_of_Europe: If we don't stop the Hillary Clintons and Angela Merkels of this generation we will lose a lot more then our freedom"
+
+"Ugly girls are like prime numbers - nothing will go into them except themselves."
+
+"@Ricky_Vaughn99 About time the Protestants start to see the lie that Islam is."
+
+"The most fake thing I have ever seen is watching two girls meet each other for the first time."
+
+"Some relationships are like fat people\nThey don't work out."
+
+"I hate when kids spill their whole cup of yogurt when getting toppings but honestly it's worth it to hear the Latino parents get livid. "
+
+"You can't call yourself a Christian but call your friends faggots. You can't choose when you're religious. You either are or you aren't."
+
+"Is it rape if you make her orgasm?"
+]]></TEXT>
+<TAGS>
+<Group id="G0" spans="89~94" text="Islam" hate="yes" religion="Muslim" slur="none" />
+<Group id="G1" spans="216~229" text="WhiteGenocide" hate="yes" reverse="yes" slur="none" race="White" />
+<Group id="G2" spans="394~404" text="Ugly girls" hate="yes" body_image="other" gender="Female" slur="none" />
+<Group id="G3" spans="509~520" text="Protestants" hate="no" slur="none" religion="Protestant" />
+<Group id="G4" spans="547~552" text="Islam" hate="no" slur="none" religion="Muslim" />
+<Group id="G5" spans="686~696" text="fat people" hate="yes" body_image="Fat" slur="none" />
+<Group id="G6" spans="734~738" text="kids" hate="no" slur="none" age="Young" />
+<Group id="G7" spans="832~838" text="Latino" hate="no" slur="none" race="Latino" />
+<Group id="G8" spans="888~897" text="Christian" hate="no" slur="none" religion="Christian" />
+<Group id="G9" spans="920~927" text="faggots" hate="no" orientation="Gay" slur="outside_ref" />
+<Group id="G10" spans="1025~1028" text="her" hate="yes" slur="none" gender="Female" />
+<Group id="G11" spans="-1~-1" text="" hate="yes" slur="none" race="White" reverse="yes" />
+<Sentiment id="S0" spans="534~555" text="the lie that Islam is" type="warning" />
+<Sentiment id="S1" spans="216~229" text="WhiteGenocide" type="warning" />
+<Sentiment id="S2" spans="430~473" text="nothing will go into them except themselves" type="incitement" />
+<Sentiment id="S3" spans="1002~1036" text="Is it rape if you make her orgasm?" type="incitement" />
+<Stereotype id="St0" spans="33~94" text=" Wife-beating, incest and child marriages are common in Islam" type="cultural" nonhate="outside_ref" />
+<Stereotype id="St1" spans="698~717" text="They don&apos;t work out" type="behavioral" />
+<Ref id="R0" fromID="S2" fromText="nothing will go into them except themselves" toID="G2" toText="Ugly girls" />
+<Ref id="R1" fromID="St0" fromText=" Wife-beating, incest and child marriages are common in Islam" toID="G0" toText="Islam" />
+<Ref id="R2" fromID="S1" fromText="WhiteGenocide" toID="G1" toText="WhiteGenocide" />
+<Ref id="R3" fromID="S0" fromText="the lie that Islam is" toID="G4" toText="Islam" />
+<Ref id="R4" fromID="St1" fromText="They don&apos;t work out" toID="G5" toText="fat people" />
+<Ref id="R5" fromID="S3" fromText="Is it rape if you make her orgasm?" toID="G10" toText="her" />
+</TAGS>
+</HateSpeech_2.0>

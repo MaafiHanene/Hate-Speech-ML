@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["If anything, persistent #blackpathology, in this, the current year, demonstrates that a 400 year science experiment has failed."
+
+
+
+"I genuinely feel bad about saying this, but going by my mentions today, much of "black twitter" seems really stupid."
+
+
+
+"Blacks naturally want more gibsmedats for dem programs because Whites have patronized them for 400 years. They have never had agency."
+
+
+
+"How about we blame both and realise that rich people are fucking greedy, uncaring assholes most of the time."
+
+
+
+"#BlackCrime and #blackdysfunction are proof that 400 years in proximity to Western civilization can't change genetics or historical trends."
+
+
+
+"Kylie just said if I gain the freshman 15 she can't be my friend anymore. Quote on quote \"no fatties in my circle only baddies\""
+
+
+
+"#blackpathology is the result of blacks enjoying the benefits of a society/civilization they did nothing to build."
+
+
+
+"#PanamaPapers reveal what many Arabs suspected: corrupt tyrants embezzling $Billions -- will further destabilize such illegitimate regimes."
+
+
+
+"Most old farts who play golf are obnoxious cunts."
+
+
+
+"When the black and Paki youth think this country is THEIRS and what's WORSE the wealth too.......sthg has gone wrong people don't you agree?"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="25~40" text="#blackpathology" hate="yes" slur="none" race="Black" />
+<Group id="G1" spans="256~262" text="Blacks" hate="yes" slur="none" race="Black" />
+<Group id="G2" spans="436~447" text="rich people" hate="yes" slur="none" class="Rich" />
+<Group id="G3" spans="510~515" text="Black" race="Black" hate="yes" slur="none" />
+<Group id="G4" spans="526~531" text="black" race="Black" hate="yes" slur="none" />
+<Group id="G5" spans="748~755" text="fatties" slur="hateful" hate="yes" body_image="Fat" />
+<Group id="G6" spans="789~804" text="#blackpathology" hate="yes" slur="none" race="Black" />
+<Group id="G7" spans="822~828" text="blacks" slur="none" hate="yes" race="Black" />
+<Group id="G8" spans="940~945" text="Arabs" hate="no" slur="none" race="Middle_Eastern" />
+<Group id="G9" spans="1059~1068" text="old farts" age="Old" slur="hateful" hate="yes" />
+<Group id="G10" spans="1118~1123,1133~1138" text="black ... youth" age="Young" race="Black" hate="yes" slur="none" />
+<Group id="G11" spans="1128~1138" text="Paki youth" age="Young" hate="yes" slur="hateful" nationality="Pakistan" />
+<Group id="G12" spans="319~325" text="Whites" hate="no" slur="none" race="White" />
+<Group id="G13" spans="215~220" text="black" hate="yes" race="Black" slur="none" />
+<Sentiment id="S0" spans="1~128" text="If anything, persistent #blackpathology, in this, the current year, demonstrates that a 400 year science experiment has failed." type="judgement" />
+<Sentiment id="S4" spans="362~389" text="They have never had agency." type="judgement" />
+<Sentiment id="S5" spans="744~783" text="&quot;no fatties in my circle only baddies\&quot;" type="incitement" nonhate="outside_ref" />
+<Sentiment id="S6" spans="789~903" text="#blackpathology is the result of blacks enjoying the benefits of a society/civilization they did nothing to build." type="judgement" />
+<Sentiment id="S7" spans="1083~1102" text="are obnoxious cunts" type="judgement" />
+<Sentiment id="S8" spans="1109~1249" text="When the black and Paki youth think this country is THEIRS and what&apos;s WORSE the wealth too.......sthg has gone wrong people don&apos;t you agree?" type="judgement" />
+<Stereotype id="St0" spans="256~310" text="Blacks naturally want more gibsmedats for dem programs" type="behavioral" />
+<Stereotype id="St1" spans="436~485" text="rich people are fucking greedy, uncaring assholes" type="behavioral" />
+<Stereotype id="St2" spans="515~520" text="Crime" type="behavioral" />
+<Stereotype id="St3" spans="531~542" text="dysfunction" type="behavioral" />
+<Stereotype id="St4" spans="509~648" text="#BlackCrime and #blackdysfunction are proof that 400 years in proximity to Western civilization can&apos;t change genetics or historical trends." type="behavioral" />
+<Ref id="R0" fromID="S0" fromText="If anything, persistent #blackpathology, in this, the current year, demonstrates that a 400 year science experiment has failed." toID="G0" toText="#blackpathology" />
+<Ref id="R1" fromID="St0" fromText="Blacks naturally want more gibsmedats for dem programs" toID="G1" toText="Blacks" />
+<Ref id="R2" fromID="S4" fromText="They have never had agency." toID="G1" toText="Blacks" />
+<Ref id="R3" fromID="St1" fromText="rich people are fucking greedy, uncaring assholes" toID="G2" toText="rich people" />
+<Ref id="R4" fromID="St2" fromText="Crime" toID="G3" toText="Black" />
+<Ref id="R5" fromID="St4" fromText="#BlackCrime and #blackdysfunction are proof that 400 years in proximity to Western civilization can&apos;t change genetics or historical trends." toID="G3" toText="Black" />
+<Ref id="R6" fromID="St4" fromText="#BlackCrime and #blackdysfunction are proof that 400 years in proximity to Western civilization can&apos;t change genetics or historical trends." toID="G3" toText="Black" />
+<Ref id="R7" fromID="S5" fromText="&quot;no fatties in my circle only baddies\&quot;" toID="G5" toText="fatties" />
+<Ref id="R8" fromID="G4" fromText="black" toID="G3" toText="Black" />
+<Ref id="R9" fromID="S6" fromText="#blackpathology is the result of blacks enjoying the benefits of a society/civilization they did nothing to build." toID="G6" toText="#blackpathology" />
+<Ref id="R10" fromID="G7" fromText="blacks" toID="G6" toText="#blackpathology" />
+<Ref id="R11" fromID="S7" fromText="are obnoxious cunts" toID="G9" toText="old farts" />
+<Ref id="R12"  />
+<Ref id="R13" fromID="S8" fromText="When the black and Paki youth think this country is THEIRS and what&apos;s WORSE the wealth too.......sthg has gone wrong people don&apos;t you agree?" toID="G10" toText="black ... youth" />
+</TAGS>
+</HateSpeech_2.0>

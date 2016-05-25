@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HateSpeech_2.0>
+<TEXT><![CDATA["The speed in which a woman says \"nothing\", when asked \"what's wrong?\" Is inversely proportional to the severity of the coming storm."
+
+"you don't even have to be homeless to beg for money just set up a gofundme you can beg for money from your macbook in your cozy bed"
+
+"guys can u imagine me as a Bernie supporter/communist/feminist? I would expect you all to find me and beat me t death"
+
+"I log on and instantly see a nigger being a retard"
+
+"No offense against gay people, but transvestism should not be legal lol getting dudes by surprise"
+
+"German polls purportdly say #AngelaMerkel's popularity is @ pre-#rapefugee levels. I say they're fake. We're gettng similar pollaganda here."
+
+"My girlfriend asked me to give her something long, hard and will make her moan... So i gave her a mop."
+
+"Sick of the rape of our country and culture through non-white immigration? White Revolution is the Only Solution. "
+
+"some niggers and a Mexico were acting stupid in the coffee shop almost called the police"
+
+"7. Having a penis doesn’t make you any less of a woman #SignsYoureABernieSupporter @NemoDzn @Brown_Benefits @WhitestRabbit_"]]></TEXT>
+<TAGS>
+<Group id="G0" spans="22~27" text="woman" gender="Female" slur="none" hate="no" />
+<Group id="G1" spans="426~432" text="nigger" hate="yes" race="Black" slur="hateful" />
+<Group id="G2" spans="441~447" text="retard" hate="yes" slur="hateful" disability="Mental" />
+<Group id="G3" spans="470~473" text="gay" slur="none" hate="yes" orientation="Gay" />
+<Group id="G4" spans="486~498" text="transvestism" slur="none" hate="yes" genderID="Trans" />
+<Group id="G5" spans="617~626" text="rapefugee" hate="yes" slur="hateful" immigrant_status="Refugee" />
+<Group id="G6" spans="854~875" text="non-white immigration" hate="yes" slur="none" reverse="yes" race="White" immigrant_status="Immigrant" />
+<Group id="G7" spans="877~882" text="White" slur="none" reverse="yes" hate="yes" />
+<Group id="G8" spans="925~932" text="niggers" hate="yes" slur="hateful" race="Black" />
+<Group id="G10" spans="939~945" text="Mexico" nationality="Mexico" slur="none" hate="yes" race="Latino" />
+<Group id="G11" spans="1061~1066" text="woman" hate="yes" gender="Female" genderID="Trans" slur="none" />
+<Sentiment id="S0" spans="426~447" text="nigger being a retard" type="judgement" />
+<Sentiment id="S1" spans="485~548" text=" transvestism should not be legal lol getting dudes by surprise" type="incitement" />
+<Sentiment id="S2" spans="802~914" text="Sick of the rape of our country and culture through non-white immigration? White Revolution is the Only Solution" type="incitement" />
+<Sentiment id="S3" spans="1015~1094" text="Having a penis doesn’t make you any less of a woman #SignsYoureABernieSupporter" type="judgement" />
+<Stereotype id="St0" spans="1~136" text="The speed in which a woman says \&quot;nothing\&quot;, when asked \&quot;what&apos;s wrong?\&quot; Is inversely proportional to the severity of the coming storm" type="behavioral" />
+<Stereotype id="St1" spans="486~498" text="transvestism" type="behavioral" />
+<Ref id="R0" fromID="S0" fromText="nigger being a retard" toID="G1" toText="nigger" />
+<Ref id="R1" fromID="St1" fromText="transvestism" toID="G3" toText="gay" />
+<Ref id="R2" fromID="S1" fromText=" transvestism should not be legal lol getting dudes by surprise" toID="G4" toText="transvestism" />
+<Ref id="R3" fromID="S2" fromText="Sick of the rape of our country and culture through non-white immigration? White Revolution is the Only Solution" toID="G6" toText="non-white immigration" />
+<Ref id="R4" fromID="S3" fromText="Having a penis doesn’t make you any less of a woman #SignsYoureABernieSupporter" toID="G11" toText="woman" />
+</TAGS>
+</HateSpeech_2.0>
